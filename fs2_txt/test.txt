@@ -1,0 +1,523 @@
+DUMMY/LJ001-0001.wav|Printing, in the only sense with which we are at present concerned, differs from most if not from all the arts and crafts represented in the Exhibition
+DUMMY/LJ001-0002.wav|in being comparatively modern.
+DUMMY/LJ001-0003.wav|For although the Chinese took impressions from wood blocks engraved in relief for centuries before the woodcutters of the Netherlands, by a similar process
+DUMMY/LJ001-0004.wav|produced the block books, which were the immediate predecessors of the true printed book,
+DUMMY/LJ001-0005.wav|the invention of movable metal letters in the middle of the fifteenth century may justly be considered as the invention of the art of printing.
+DUMMY/LJ001-0006.wav|And it is worth mention in passing that, as an example of fine typography,
+DUMMY/LJ001-0007.wav|the earliest book printed with movable types, the Gutenberg, or "forty-two line Bible" of about 1455,
+DUMMY/LJ001-0008.wav|has never been surpassed.
+DUMMY/LJ001-0009.wav|Printing, then, for our purpose, may be considered as the art of making books by means of movable types.
+DUMMY/LJ001-0010.wav|Now, as all books not primarily intended as picture-books consist principally of types composed to form letterpress,
+DUMMY/LJ001-0011.wav|it is of the first importance that the letter used should be fine in form;
+DUMMY/LJ001-0012.wav|especially as no more time is occupied, or cost incurred, in casting, setting, or printing beautiful letters
+DUMMY/LJ001-0013.wav|than in the same operations with ugly ones.
+DUMMY/LJ001-0014.wav|And it was a matter of course that in the Middle Ages, when the craftsmen took care that beautiful form should always be a part of their productions whatever they were,
+DUMMY/LJ001-0015.wav|the forms of printed letters should be beautiful, and that their arrangement on the page should be reasonable and a help to the shapeliness of the letters themselves.
+DUMMY/LJ001-0016.wav|The Middle Ages brought calligraphy to perfection, and it was natural therefore
+DUMMY/LJ001-0017.wav|that the forms of printed letters should follow more or less closely those of the written character, and they followed them very closely.
+DUMMY/LJ001-0018.wav|The first books were printed in black letter, i.e. the letter which was a Gothic development of the ancient Roman character,
+DUMMY/LJ001-0019.wav|and which developed more completely and satisfactorily on the side of the "lower-case" than the capital letters;
+DUMMY/LJ001-0020.wav|the "lower-case" being in fact invented in the early Middle Ages.
+DUMMY/LJ001-0021.wav|The earliest book printed with movable type, the aforesaid Gutenberg Bible, is printed in letters which are an exact imitation
+DUMMY/LJ001-0022.wav|of the more formal ecclesiastical writing which obtained at that time; this has since been called "missal type,"
+DUMMY/LJ001-0023.wav|and was in fact the kind of letter used in the many splendid missals, psalters, etc., produced by printing in the fifteenth century.
+DUMMY/LJ001-0024.wav|But the first Bible actually dated (which also was printed at Maintz by Peter Schoeffer in the year 1462)
+DUMMY/LJ001-0025.wav|imitates a much freer hand, simpler, rounder, and less spiky, and therefore far pleasanter and easier to read.
+DUMMY/LJ001-0026.wav|On the whole the type of this book may be considered the ne-plus-ultra of Gothic type,
+DUMMY/LJ001-0027.wav|especially as regards the lower-case letters; and type very similar was used during the next fifteen or twenty years not only by Schoeffer,
+DUMMY/LJ001-0028.wav|but by printers in Strasburg, Basle, Paris, Lubeck, and other cities.
+DUMMY/LJ001-0029.wav|But though on the whole, except in Italy, Gothic letter was most often used
+DUMMY/LJ001-0030.wav|a very few years saw the birth of Roman character not only in Italy, but in Germany and France.
+DUMMY/LJ001-0031.wav|In 1465 Sweynheim and Pannartz began printing in the monastery of Subiaco near Rome,
+DUMMY/LJ001-0032.wav|and used an exceedingly beautiful type, which is indeed to look at a transition between Gothic and Roman,
+DUMMY/LJ001-0033.wav|but which must certainly have come from the study of the twelfth or even the eleventh century MSS.
+DUMMY/LJ001-0034.wav|They printed very few books in this type, three only; but in their very first books in Rome, beginning with the year 1468,
+DUMMY/LJ001-0035.wav|they discarded this for a more completely Roman and far less beautiful letter.
+DUMMY/LJ001-0036.wav|But about the same year Mentelin at Strasburg began to print in a type which is distinctly Roman;
+DUMMY/LJ001-0037.wav|and the next year Gunther Zeiner at Augsburg followed suit;
+DUMMY/LJ001-0038.wav|while in 1470 at Paris Udalric Gering and his associates turned out the first books printed in France, also in Roman character.
+DUMMY/LJ001-0039.wav|The Roman type of all these printers is similar in character,
+DUMMY/LJ001-0040.wav|and is very simple and legible, and unaffectedly designed for use; but it is by no means without beauty.
+DUMMY/LJ001-0041.wav|It must be said that it is in no way like the transition type of Subiaco,
+DUMMY/LJ001-0042.wav|and though more Roman than that, yet scarcely more like the complete Roman type of the earliest printers of Rome.
+DUMMY/LJ001-0043.wav|A further development of the Roman letter took place at Venice.
+DUMMY/LJ001-0044.wav|John of Spires and his brother Vindelin, followed by Nicholas Jenson, began to print in that city,
+DUMMY/LJ001-0045.wav|1469, 1470;
+DUMMY/LJ001-0046.wav|their type is on the lines of the German and French rather than of the Roman printers.
+DUMMY/LJ001-0047.wav|Of Jenson it must be said that he carried the development of Roman type as far as it can go:
+DUMMY/LJ001-0048.wav|his letter is admirably clear and regular, but at least as beautiful as any other Roman type.
+DUMMY/LJ001-0049.wav|After his death in the "fourteen eighties," or at least by 1490, printing in Venice had declined very much;
+DUMMY/LJ001-0050.wav|and though the famous family of Aldus restored its technical excellence, rejecting battered letters,
+DUMMY/LJ001-0051.wav|and paying great attention to the "press work" or actual process of printing,
+DUMMY/LJ001-0052.wav|yet their type is artistically on a much lower level than Jenson's, and in fact
+DUMMY/LJ001-0053.wav|they must be considered to have ended the age of fine printing in Italy.
+DUMMY/LJ001-0054.wav|Jenson, however, had many contemporaries who used beautiful type,
+DUMMY/LJ001-0055.wav|some of which -- as, e.g., that of Jacobus Rubeus or Jacques le Rouge -- is scarcely distinguishable from his.
+DUMMY/LJ001-0056.wav|It was these great Venetian printers, together with their brethren of Rome, Milan,
+DUMMY/LJ001-0057.wav|Parma, and one or two other cities, who produced the splendid editions of the Classics, which are one of the great glories of the printer's art,
+DUMMY/LJ001-0058.wav|and are worthy representatives of the eager enthusiasm for the revived learning of that epoch. By far,
+DUMMY/LJ001-0059.wav|the greater part of these Italian printers, it should be mentioned, were Germans or Frenchmen, working under the influence of Italian opinion and aims.
+DUMMY/LJ001-0060.wav|It must be understood that through the whole of the fifteenth and the first quarter of the sixteenth centuries
+DUMMY/LJ001-0061.wav|the Roman letter was used side by side with the Gothic.
+DUMMY/LJ001-0062.wav|Even in Italy most of the theological and law books were printed in Gothic letter,
+DUMMY/LJ001-0063.wav|which was generally more formally Gothic than the printing of the German workmen,
+DUMMY/LJ001-0064.wav|many of whose types, indeed, like that of the Subiaco works, are of a transitional character.
+DUMMY/LJ001-0065.wav|This was notably the case with the early works printed at Ulm, and in a somewhat lesser degree at Augsburg.
+DUMMY/LJ001-0066.wav|In fact Gunther Zeiner's first type (afterwards used by Schussler) is remarkably like the type of the before-mentioned Subiaco books.
+DUMMY/LJ001-0067.wav|In the Low Countries and Cologne, which were very fertile of printed books, Gothic was the favorite.
+DUMMY/LJ001-0068.wav|The characteristic Dutch type, as represented by the excellent printer Gerard Leew, is very pronounced and uncompromising Gothic.
+DUMMY/LJ001-0069.wav|This type was introduced into England by Wynkyn de Worde, Caxton's successor,
+DUMMY/LJ001-0070.wav|and was used there with very little variation all through the sixteenth and seventeenth centuries, and indeed into the eighteenth.
+DUMMY/LJ001-0071.wav|Most of Caxton's own types are of an earlier character, though they also much resemble Flemish or Cologne letter.
+DUMMY/LJ001-0072.wav|After the end of the fifteenth century the degradation of printing, especially in Germany and Italy,
+DUMMY/LJ001-0073.wav|went on apace; and by the end of the sixteenth century there was no really beautiful printing done:
+DUMMY/LJ001-0074.wav|the best, mostly French or Low-Country, was neat and clear, but without any distinction;
+DUMMY/LJ001-0075.wav|the worst, which perhaps was the English, was a terrible falling-off from the work of the earlier presses;
+DUMMY/LJ001-0076.wav|and things got worse and worse through the whole of the seventeenth century, so that in the eighteenth printing was very miserably performed.
+DUMMY/LJ001-0077.wav|In England about this time, an attempt was made (notably by Caslon, who started business in London as a type-founder in 1720)
+DUMMY/LJ001-0078.wav|to improve the letter in form.
+DUMMY/LJ001-0079.wav|Caslon's type is clear and neat, and fairly well designed;
+DUMMY/LJ001-0080.wav|he seems to have taken the letter of the Elzevirs of the seventeenth century for his model:
+DUMMY/LJ001-0081.wav|type cast from his matrices is still in everyday use.
+DUMMY/LJ001-0082.wav|In spite, however, of his praiseworthy efforts, printing had still one last degradation to undergo.
+DUMMY/LJ001-0083.wav|The seventeenth century founts were bad rather negatively than positively.
+DUMMY/LJ001-0084.wav|But for the beauty of the earlier work they might have seemed tolerable.
+DUMMY/LJ001-0085.wav|It was reserved for the founders of the later eighteenth century to produce letters which are positively ugly, and which, it may be added,
+DUMMY/LJ001-0086.wav|are dazzling and unpleasant to the eye owing to the clumsy thickening and vulgar thinning of the lines:
+DUMMY/LJ001-0087.wav|for the seventeenth-century letters are at least pure and simple in line. The Italian, Bodoni, and the Frenchman, Didot,
+DUMMY/LJ001-0088.wav|were the leaders in this luckless change, though our own Baskerville, who was at work some years before them, went much on the same lines;
+DUMMY/LJ001-0089.wav|but his letters, though uninteresting and poor, are not nearly so gross and vulgar as those of either the Italian or the Frenchman.
+DUMMY/LJ001-0090.wav|With this change the art of printing touched bottom,
+DUMMY/LJ001-0091.wav|so far as fine printing is concerned, though paper did not get to its worst till about 1840.
+DUMMY/LJ001-0092.wav|The Chiswick press in 1844 revived Caslon's founts, printing for Messrs. Longman the Diary of Lady Willoughby.
+DUMMY/LJ001-0093.wav|This experiment was so far successful that about 1850 Messrs. Miller and Richard of Edinburgh
+DUMMY/LJ001-0094.wav|were induced to cut punches for a series of "old style" letters.
+DUMMY/LJ001-0095.wav|These and similar founts, cast by the above firm and others,
+DUMMY/LJ001-0096.wav|have now come into general use and are obviously a great improvement on the ordinary "modern style" in use in England, which is in fact the Bodoni type
+DUMMY/LJ001-0097.wav|a little reduced in ugliness. The design of the letters of this modern "old style" leaves a good deal to be desired,
+DUMMY/LJ001-0098.wav|and the whole effect is a little too gray, owing to the thinness of the letters.
+DUMMY/LJ001-0099.wav|It must be remembered, however, that most modern printing is done by machinery on soft paper, and not by the hand press,
+DUMMY/LJ001-0100.wav|and these somewhat wiry letters are suitable for the machine process, which would not do justice to letters of more generous design.
+DUMMY/LJ001-0101.wav|It is discouraging to note that the improvement of the last fifty years is almost wholly confined to Great Britain.
+DUMMY/LJ001-0102.wav|Here and there a book is printed in France or Germany with some pretension to good taste,
+DUMMY/LJ001-0103.wav|but the general revival of the old forms has made no way in those countries.
+DUMMY/LJ001-0104.wav|Italy is contentedly stagnant.
+DUMMY/LJ001-0105.wav|America has produced a good many showy books, the typography, paper, and illustrations of which are, however, all wrong,
+DUMMY/LJ001-0106.wav|oddity rather than rational beauty and meaning being apparently the thing sought for both in the letters and the illustrations.
+DUMMY/LJ001-0107.wav|To say a few words on the principles of design in typography:
+DUMMY/LJ001-0108.wav|it is obvious that legibility is the first thing to be aimed at in the forms of the letters;
+DUMMY/LJ001-0109.wav|this is best furthered by the avoidance of irrational swellings and spiky projections, and by the using of careful purity of line.
+DUMMY/LJ001-0110.wav|Even the Caslon type when enlarged shows great shortcomings in this respect:
+DUMMY/LJ001-0111.wav|the ends of many of the letters such as the t and e are hooked up in a vulgar and meaningless way,
+DUMMY/LJ001-0112.wav|instead of ending in the sharp and clear stroke of Jenson's letters;
+DUMMY/LJ001-0113.wav|there is a grossness in the upper finishings of letters like the c, the a, and so on,
+DUMMY/LJ001-0114.wav|an ugly pear-shaped swelling defacing the form of the letter:
+DUMMY/LJ001-0115.wav|in short, it happens to this craft, as to others, that the utilitarian practice, though it professes to avoid ornament,
+DUMMY/LJ001-0116.wav|still clings to a foolish, because misunderstood conventionality, deduced from what was once ornament, and is by no means useful;
+DUMMY/LJ001-0117.wav|which title can only be claimed by artistic practice, whether the art in it be conscious or unconscious.
+DUMMY/LJ001-0118.wav|In no characters is the contrast between the ugly and vulgar illegibility of the modern type
+DUMMY/LJ001-0119.wav|and the elegance and legibility of the ancient more striking than in the Arabic numerals.
+DUMMY/LJ001-0120.wav|In the old print each figure has its definite individuality, and one cannot be mistaken for the other;
+DUMMY/LJ001-0121.wav|in reading the modern figures the eyes must be strained before the reader can have any reasonable assurance
+DUMMY/LJ001-0122.wav|that he has a 5, an 8, or a 3 before him, unless the press work is of the best:
+DUMMY/LJ001-0123.wav|this is awkward if you have to read Bradshaw's Guide in a hurry.
+DUMMY/LJ001-0124.wav|One of the differences between the fine type and the utilitarian must probably be put down to a misapprehension of a commercial necessity:
+DUMMY/LJ001-0125.wav|this is the narrowing of the modern letters.
+DUMMY/LJ001-0126.wav|Most of Jenson's letters are designed within a square,
+DUMMY/LJ001-0127.wav|the modern letters are narrowed by a third or thereabout; but while this gain of space very much hampers the possibility of beauty of design,
+DUMMY/LJ001-0128.wav|it is not a real gain, for the modern printer throws the gain away by putting inordinately wide spaces between his lines, which, probably,
+DUMMY/LJ001-0129.wav|the lateral compression of his letters renders necessary.
+DUMMY/LJ001-0130.wav|Commercialism again compels the use of type too small in size to be comfortable reading:
+DUMMY/LJ001-0131.wav|the size known as "Long primer" ought to be the smallest size used in a book meant to be read.
+DUMMY/LJ001-0132.wav|Here, again, if the practice of "leading" were retrenched larger type could be used without enhancing the price of a book.
+DUMMY/LJ001-0133.wav|One very important matter in "setting up" for fine printing is the "spacing," that is, the lateral distance of words from one another.
+DUMMY/LJ001-0134.wav|In good printing the spaces between the words should be as near as possible equal
+DUMMY/LJ001-0135.wav|it is impossible that they should be quite equal except in lines of poetry
+DUMMY/LJ001-0136.wav|modern printers understand this, but it is only practiced in the very best establishments.
+DUMMY/LJ001-0137.wav|But another point which they should attend to they almost always disregard;
+DUMMY/LJ001-0138.wav|this is the tendency to the formation of ugly meandering white lines or "rivers" in the page
+DUMMY/LJ001-0139.wav|a blemish which can be nearly, though not wholly, avoided by care and forethought
+DUMMY/LJ001-0140.wav|the desirable thing being "the breaking of the line" as in bonding masonry or brickwork
+DUMMY/LJ001-0141.wav|The general solidity of a page is much to be sought for
+DUMMY/LJ001-0142.wav|modern printers generally overdo the "whites" in the spacing, a defect probably forced on them by the characterless quality of the letters.
+DUMMY/LJ001-0143.wav|For where these are boldly and carefully designed, and each letter is thoroughly individual in form,
+DUMMY/LJ001-0144.wav|the words may be set much closer together, without loss of clearness.
+DUMMY/LJ001-0145.wav|No definite rules, however, except the avoidance of "rivers" and excess of white, can be given for the spacing,
+DUMMY/LJ001-0146.wav|which requires the constant exercise of judgment and taste on the part of the printer.
+DUMMY/LJ001-0147.wav|The position of the page on the paper should be considered if the book is to have a satisfactory look.
+DUMMY/LJ001-0148.wav|Here once more the almost invariable modern practice is in opposition to a natural sense of proportion.
+DUMMY/LJ001-0149.wav|From the time when books first took their present shape till the end of the sixteenth century, or indeed later,
+DUMMY/LJ001-0150.wav|the page so lay on the paper that there was more space allowed to the bottom and fore margin than to the top and back of the paper,
+DUMMY/LJ001-0151.wav|the unit of the book being looked on as the two pages forming an opening.
+DUMMY/LJ001-0152.wav|The modern printer, in the teeth of the evidence given by his own eyes, considers the single page as the unit, and prints the page in the middle of his paper
+DUMMY/LJ001-0153.wav|only nominally so, however, in many cases, since when he uses a headline he counts that in,
+DUMMY/LJ001-0154.wav|the result as measured by the eye being that the lower margin is less than the top one, and that the whole opening has an upside-down look vertically
+DUMMY/LJ001-0155.wav|and that laterally the page looks as if it were being driven off the paper.
+DUMMY/LJ001-0156.wav|The paper on which the printing is to be done is a necessary part of our subject:
+DUMMY/LJ001-0157.wav|of this it may be said that though there is some good paper made now,
+DUMMY/LJ001-0158.wav|it is never used except for very expensive books, although it would not materially increase the cost in all but the very cheapest.
+DUMMY/LJ001-0159.wav|The paper that is used for ordinary books is exceedingly bad even in this country, but is beaten in the race for vileness
+DUMMY/LJ001-0160.wav|by that made in America, which is the worst conceivable.
+DUMMY/LJ001-0161.wav|There seems to be no reason why ordinary paper should not be better made,
+DUMMY/LJ001-0162.wav|even allowing the necessity for a very low price; but any improvement must be based on showing openly that the cheap article is cheap,
+DUMMY/LJ001-0163.wav|e.g. the cheap paper should not sacrifice toughness and durability to a smooth and white surface,
+DUMMY/LJ001-0164.wav|which should be indications of a delicacy of material and manufacture which would of necessity increase its cost.
+DUMMY/LJ001-0165.wav|One fruitful source of badness in paper
+DUMMY/LJ001-0166.wav|is the habit that publishers have of eking out a thin volume by printing it on thick paper almost of the substance of cardboard,
+DUMMY/LJ001-0167.wav|a device which deceives nobody, and makes a book very unpleasant to read.
+DUMMY/LJ001-0168.wav|On the whole, a small book should be printed on paper which is as thin as may be without being transparent.
+DUMMY/LJ001-0169.wav|The paper used for printing the small highly ornamented French service-books about the beginning of the sixteenth century is a model in this respect,
+DUMMY/LJ001-0170.wav|being thin, tough, and opaque.
+DUMMY/LJ001-0171.wav|However, the fact must not be blinked that machine-made paper cannot in the nature of things be made of so good a texture as that made by hand.
+DUMMY/LJ001-0172.wav|The ornamentation of printed books is too wide a subject to be dealt with fully here; but one thing must be said on it.
+DUMMY/LJ001-0173.wav|The essential point to be remembered is that the ornament, whatever it is, whether picture or pattern-work, should form part of the page,
+DUMMY/LJ001-0174.wav|should be a part of the whole scheme of the book.
+DUMMY/LJ001-0175.wav|Simple as this proposition is, it is necessary to be stated,
+DUMMY/LJ001-0176.wav|because the modern practice is to disregard the relation between the printing and the ornament altogether,
+DUMMY/LJ001-0177.wav|so that if the two are helpful to one another it is a mere matter of accident.
+DUMMY/LJ001-0178.wav|The due relation of letter to pictures and other ornament was thoroughly understood by the old printers; so that
+DUMMY/LJ001-0179.wav|even when the woodcuts are very rude indeed,
+DUMMY/LJ001-0180.wav|the proportions of the page still give pleasure by the sense of richness that the cuts and letter together convey.
+DUMMY/LJ001-0181.wav|When, as is most often the case, there is actual beauty in the cuts,
+DUMMY/LJ001-0182.wav|the books so ornamented are amongst the most delightful works of art that have ever been produced.
+DUMMY/LJ001-0183.wav|Therefore, granted well-designed type, due spacing of the lines and words, and proper position of the page on the paper,
+DUMMY/LJ001-0184.wav|all books might be at least comely and well-looking: and if to these good qualities were added really beautiful ornament and pictures,
+DUMMY/LJ001-0185.wav|printed books might once again illustrate to the full
+DUMMY/LJ001-0186.wav|the position of our Society that a work of utility might be also a work of art, if we cared to make it so.
+DUMMY/LJ002-0001.wav|The Chronicles of Newgate, Volume 2. By Arthur Griffiths. Section 4: Newgate down to 1818.
+DUMMY/LJ002-0002.wav|Under the conditions referred to in the previous chapter,
+DUMMY/LJ002-0003.wav|with criminals and misdemeanants of all shades crowding perpetually into its narrow limits, the latter state of Newgate was worse than the first.
+DUMMY/LJ002-0004.wav|The new jail fell as far short of the demands made on it as did the old.
+DUMMY/LJ002-0005.wav|The prison population fluctuated a great deal,
+DUMMY/LJ002-0006.wav|but it was almost always in excess of the accommodation available, and there were times when the place was full to overflowing.
+DUMMY/LJ002-0007.wav|Neild gives some figures which well illustrate this.
+DUMMY/LJ002-0008.wav|On the 14th June, 1800, there were 199 debtors and 289 felons in the prison.
+DUMMY/LJ002-0009.wav|On the 27th April, in the following year,
+DUMMY/LJ002-0010.wav|these numbers had risen to 275 and 375 respectively, or 650 in all.
+DUMMY/LJ002-0011.wav|For two more years these high figures were steadily maintained, and in 1803 the total rose to 710.
+DUMMY/LJ002-0012.wav|After that they fell as steadily,
+DUMMY/LJ002-0013.wav|till, 1808, the lowest point was touched of 197 debtors and 182 felons, or 379 in all.
+DUMMY/LJ002-0014.wav|The numbers soon increased, however, and by 1811 had again risen to 629; and Mr. Neild was told that there had been at one time
+DUMMY/LJ002-0015.wav|300 debtors and 900 criminals in Newgate, or twelve hundred prisoners in all.
+DUMMY/LJ002-0016.wav|Previous to that date there had been 700 or 800 frequently, and once, in Mr. Akerman's time, one thousand.
+DUMMY/LJ002-0017.wav|Trustworthy evidence is forthcoming to the effect that these high figures were constantly maintained for many months at a time.
+DUMMY/LJ002-0018.wav|The inadequacy of the jail was noticed and reported upon again and again by the grand juries of the city of London,
+DUMMY/LJ002-0019.wav|who seldom let a session go by without visiting Newgate.
+DUMMY/LJ002-0020.wav|In 1813
+DUMMY/LJ002-0021.wav|the grand jury made a special presentment to the Court of Common Council, pointing out that on the debtors' side, which was intended for only 100,
+DUMMY/LJ002-0022.wav|no less than 340 were crowded, to the great inconvenience and danger of the inmates.
+DUMMY/LJ002-0023.wav|On the female side matters were much worse;
+DUMMY/LJ002-0024.wav|Quote. the apartments set apart for them, being built to accommodate 60 persons, now contain about 120. End quote.
+DUMMY/LJ002-0025.wav|Returns laid before the House of Commons showed that 6439 persons had been committed to Newgate
+DUMMY/LJ002-0026.wav|in the three years between 1813 and 1816,
+DUMMY/LJ002-0027.wav|and this number did not include the debtors, a numerous class, who were still committed to Newgate pending the completion of the White Cross Street prison.
+DUMMY/LJ002-0028.wav|In order to realize the evils entailed by incarceration in Newgate in these days, it is necessary to give some account of its interior
+DUMMY/LJ002-0029.wav|as it was occupied and appropriated in 1810.
+DUMMY/LJ002-0030.wav|Full details of the arrangements are to be found in Mr. Neild's "State of Prisons in England, Scotland, and Wales," published in 1812.
+DUMMY/LJ002-0031.wav|The jail at that date was divided into eight separate and more or less distinct departments, each of which had its own wards and yard.
+DUMMY/LJ002-0032.wav|These were: 1. The male debtors' side.
+DUMMY/LJ002-0033.wav|2. The female debtors' side. 3. The chapel yard. 4. The middle yard.
+DUMMY/LJ002-0034.wav|5. The master felons' side. 6. The female felons' side. 7. The state side.
+DUMMY/LJ002-0035.wav|8. The press yard.
+DUMMY/LJ002-0036.wav|1. The male debtors' side consisted of a yard forty-nine feet by thirty-one,
+DUMMY/LJ002-0037.wav|leading to thirteen wards on various floors, and a day room.
+DUMMY/LJ002-0038.wav|Of these wards, three were appropriated to the "cabin side," so called because
+DUMMY/LJ002-0039.wav|they each contained four small rooms or "cabins" seven feet square,
+DUMMY/LJ002-0040.wav|intended to accommodate a couple of prisoners apiece, but often much more crowded.
+DUMMY/LJ002-0041.wav|Two other wards were appropriated to the master's side debtors; they were each twenty-three feet by fourteen and a half,
+DUMMY/LJ002-0042.wav|and supposed to accommodate twenty persons. The eight remaining wards were for the common side debtors,
+DUMMY/LJ002-0043.wav|long narrow rooms -- one thirty-six feet, six twenty-three feet, and the eighth eighteen,
+DUMMY/LJ002-0044.wav|the whole about fifteen feet wide.
+DUMMY/LJ002-0045.wav|The various wards were all about eleven feet in height,
+DUMMY/LJ002-0046.wav|and were occupied as a rule by ten to fifteen people when the prison was not crowded, but double the number was occasionally placed in them.
+DUMMY/LJ002-0047.wav|The day room was fitted with benches and settles after the manner of the tap in a public-house.
+DUMMY/LJ002-0048.wav|2. The female debtors' side consisted of a court-yard forty-nine by sixteen feet,
+DUMMY/LJ002-0049.wav|leading to two wards, one of which was thirty-six feet by fifteen,
+DUMMY/LJ002-0050.wav|and the other eighteen by fifteen; and they nominally held twenty-two persons.
+DUMMY/LJ002-0051.wav|A high wall fifteen feet in height divided the females' court-yard from the men's.
+DUMMY/LJ002-0052.wav|3. The chapel yard was about forty-three feet by twenty-five.
+DUMMY/LJ002-0053.wav|It had been for some time devoted principally to felons of the worst types,
+DUMMY/LJ002-0054.wav|those who were the oldest offenders, sentenced to transportation, and who had narrowly escaped the penalty of death.
+DUMMY/LJ002-0055.wav|This arrangement was, however, modified after 1811, and the chapel yard was allotted to misdemeanants and prisoners awaiting trial.
+DUMMY/LJ002-0056.wav|The wards in this part were five in number, all in dimensions twenty feet by fifteen, with a sixth ward fifteen feet square.
+DUMMY/LJ002-0057.wav|These wards were all fitted with barrack-beds, but no bedding was supplied.
+DUMMY/LJ002-0058.wav|The chapel yard led to the chapel, and on the staircase were two rooms frequently set apart for the king's witnesses,
+DUMMY/LJ002-0059.wav|those who had turned king's evidence, whose safety might have been imperiled had they been lodged with the men against whom they had informed.
+DUMMY/LJ002-0060.wav|But these king's witnesses were also put at times into the press yard among the capital convicts, seemingly a very dangerous proceeding,
+DUMMY/LJ002-0061.wav|or they lodged with the gatesmen, the prisoner officers who had charge of the inner gates.
+DUMMY/LJ002-0062.wav|The middle yard was at first given up to the least heinous offenders. After 1812 it changed functions with the chapel yard.
+DUMMY/LJ002-0063.wav|It was fifty feet by twenty-five, and had five wards each thirty-eight by fifteen. At one end of the yard was an arcade,
+DUMMY/LJ002-0064.wav|directly under the chapel, in which there were three cells, used either for the confinement of disorderly and refractory prisoners,
+DUMMY/LJ002-0065.wav|or female convicts ordered for execution.
+DUMMY/LJ002-0066.wav|The master felons' side consisted of a yard the same size as the preceding, appropriated nominally to the most decent and better-behaved prisoners,
+DUMMY/LJ002-0067.wav|but really kept for the few who had funds sufficient to gain them admission to these more comfortable quarters.
+DUMMY/LJ002-0068.wav|Here were also lodged the gatesmen, the prisoners who had charge of the inner gates, and who were entrusted with the duty of escorting visitors from the gates
+DUMMY/LJ002-0069.wav|to the various wards their friends occupied.
+DUMMY/LJ002-0070.wav|The state side was the part stolen from the female felons' side.
+DUMMY/LJ002-0071.wav|It was large and comparatively commodious, being maintained on a better footing than any other part of the prison.
+DUMMY/LJ002-0072.wav|The inmates were privileged, either by antecedents or the fortunate possession of sufficient funds to pay the charges of the place.
+DUMMY/LJ002-0073.wav|Neild takes it for granted that the former rather than the latter prevailed in the selection,
+DUMMY/LJ002-0074.wav|and tells us that in the state side, quote, such prisoners were safely associated whose manners and conduct evince a more liberal style of education,
+DUMMY/LJ002-0075.wav|and who are therefore lodged apart from all other districts of the jail. End quote.
+DUMMY/LJ002-0076.wav|The state side contained twelve good-sized rooms,
+DUMMY/LJ002-0077.wav|from twenty-one by eighteen feet to fifteen feet square, which were furnished with bedsteads and bedding.
+DUMMY/LJ002-0078.wav|7. The press yard was that part set aside for the condemned.
+DUMMY/LJ002-0079.wav|Its name and its situation were the same as those of the old place of carrying out the terrible sentence inflicted on accused persons who stood mute.
+DUMMY/LJ002-0080.wav|The long narrow yard still remained as we saw it in Jacobite times,
+DUMMY/LJ002-0081.wav|and beyond it was now a day room for the capital convicts or those awaiting execution.
+DUMMY/LJ002-0082.wav|Beyond the press yard were three stories, condemned cells, fifteen in all, with vaulted ceilings nine feet high to the crown of the arch.
+DUMMY/LJ002-0083.wav|The ground floor cells were nine feet by six;
+DUMMY/LJ002-0084.wav|those on the first floor were rather larger on account of a set-off in the wall; and the uppermost were the largest, for the same reason.
+DUMMY/LJ002-0085.wav|Security was provided for in these condemned cells by lining the substantial stone walls with planks studded with broad-headed nails;
+DUMMY/LJ002-0086.wav|they were lighted by a double-grated window two feet nine inches by fourteen inches; and in the doors, which were four inches thick,
+DUMMY/LJ002-0087.wav|a circular aperture had been let in to give ventilation and secure a free current of air.
+DUMMY/LJ002-0088.wav|In each cell there was a barrack bedstead on the floor without bedding.
+DUMMY/LJ002-0089.wav|8. The female felons were deprived of part of the space which the architect had intended for them.
+DUMMY/LJ002-0090.wav|More than half their quadrangle had been partitioned off for another purpose,
+DUMMY/LJ002-0091.wav|and what remained was divided into a master's and a common side for female felons.
+DUMMY/LJ002-0092.wav|The two yards were adjoining, that for the common side much the largest.
+DUMMY/LJ002-0093.wav|There were nine wards in all on the female side, one of them in the attic,
+DUMMY/LJ002-0094.wav|with four casements and two fireplaces, being allotted for a female infirmary
+DUMMY/LJ002-0095.wav|and the rest being provided with barrack beds, and in dimensions varying from thirty feet by fifteen to fifteen feet by ten.
+DUMMY/LJ002-0096.wav|The eight courts above enumerated were well supplied with water;
+DUMMY/LJ002-0097.wav|they had dust-bins, sewers, and so forth, "properly disposed," and the city scavenger paid periodical visits to the prison.
+DUMMY/LJ002-0098.wav|The prisoners had few comforts, beyond the occasional use of a bath at some distance, situated in the press yard,
+DUMMY/LJ002-0099.wav|to which access was granted rarely and as a great favor. But they were allowed the luxury of drink -- if they could pay for it.
+DUMMY/LJ002-0100.wav|A recent reform had closed the tap kept by the jailer within the precincts, but
+DUMMY/LJ002-0101.wav|there was still a "convenient room" which served, and, quote,
+DUMMY/LJ002-0102.wav|near it a grating through which the debtors receive their beer from the neighboring public-houses.
+DUMMY/LJ002-0103.wav|The felons' side has a similar accommodation, and this mode of introducing the beverage is adopted because no publican as such
+DUMMY/LJ002-0104.wav|can be permitted to enter the interior of this prison. End quote. The tap-room and bar were just behind the felons' entrance lodge,
+DUMMY/LJ002-0105.wav|and beyond it was a room called the "wine room," because formerly used for the sale of wine, but
+DUMMY/LJ002-0106.wav|in which latterly a copper had been fixed for the cooking of provisions sent in by charitable persons.
+DUMMY/LJ002-0107.wav|Quote, On the top of the jail, continues Neild, are a watch-house and a sentry-box, where two or more guards, with dogs and firearms,
+DUMMY/LJ002-0108.wav|watch all night. Adjoining the felons' side lodge is the keeper's office, where the prison books are kept, and his clerk,
+DUMMY/LJ002-0109.wav|called the clerk of the papers, attends daily. End quote.
+DUMMY/LJ002-0110.wav|Having thus briefly described the plan and appropriation of the prison, I propose to deal now with the general condition of the inmates, and the manner of their life.
+DUMMY/LJ002-0111.wav|Of these the debtors, male and female, formed a large proportion.
+DUMMY/LJ002-0112.wav|The frequency and extent of processes against debtors seventy or eighty years ago will appear almost incredible
+DUMMY/LJ002-0113.wav|in an age when insolvent acts and bankruptcy courts do so much to relieve the impecunious,
+DUMMY/LJ002-0114.wav|and imprisonment for debt has almost entirely disappeared.
+DUMMY/LJ002-0116.wav|The number of processes against debtors annually was extraordinary.
+DUMMY/LJ002-0117.wav|Neild gives, on the authority of Mr. Burchell, the under sheriff of Middlesex,
+DUMMY/LJ002-0118.wav|a table showing the figures for the year ending Michaelmas 1802.
+DUMMY/LJ002-0119.wav|In that period upwards of 200,000 writs
+DUMMY/LJ002-0120.wav|had been issued for the arrests of debtors in the kingdom, for sums varying from fourpence to £500 and upwards.
+DUMMY/LJ002-0121.wav|Fifteen thousand of these were issued in Middlesex alone, which at that time was reckoned as only a fifteenth of Great Britain.
+DUMMY/LJ002-0122.wav|The number of arrests actually made was 114,300 for the kingdom, and 7020 for Middlesex.
+DUMMY/LJ002-0123.wav|Barely half of these gave bail bonds on arrests, and the remainder went to prison.
+DUMMY/LJ002-0124.wav|Quite half of the foregoing writs and arrests applied to sums under £30.
+DUMMY/LJ002-0125.wav|Neild also says that in 1793,
+DUMMY/LJ002-0126.wav|5719 writs and executions for debts between £10 and £20 were issued in Middlesex,
+DUMMY/LJ002-0127.wav|and the aggregate amount of debts sued for was £81,791.
+DUMMY/LJ002-0128.wav|He also makes the curious calculation that the costs of these actions if undefended
+DUMMY/LJ002-0129.wav|would have amounted to £68,728, and if defended,
+DUMMY/LJ002-0130.wav|£285,950; in other words, that to recover eighty odd thousand pounds,
+DUMMY/LJ002-0131.wav|three times the amount would be expended.
+DUMMY/LJ002-0132.wav|An elaborate machinery planned for the protection of the trader, and altogether on his side, had long existed for the recovery of debts.
+DUMMY/LJ002-0133.wav|Alfred the Great established the Court Baron, the Hundred Court, and the County Court, which among other matters entertained pleas for debt.
+DUMMY/LJ002-0134.wav|The County Court was the sheriff's, who sat there surrounded by the bishop and the magnates of the county;
+DUMMY/LJ002-0135.wav|but as time passed, difficulties and delays in obtaining judgment led to the removal of causes to the great Court of King's Bench,
+DUMMY/LJ002-0136.wav|and the disuse of the inferior courts.
+DUMMY/LJ002-0137.wav|So much inconvenience ensued, that in 1518 the Corporation obtained from Parliament an act empowering two aldermen
+DUMMY/LJ002-0138.wav|and four common councilmen to hold Courts of Requests, or Courts of Conscience, to hear and determine all causes of debt
+DUMMY/LJ002-0139.wav|under 40 shillings arising within the city.
+DUMMY/LJ002-0140.wav|These courts were extended two centuries later to several large provincial towns, and all were in full activity when Neild wrote,
+DUMMY/LJ002-0141.wav|and indeed supplied the bulk of the poor debtors committed to prison.
+DUMMY/LJ002-0142.wav|These courts were open to many and grave objections.
+DUMMY/LJ002-0143.wav|The commissioners who presided were, quote, little otherwise than self-elected
+DUMMY/LJ002-0144.wav|and when once appointed continued to serve sine die; they were generally near in rank to the parties whose causes they decided.
+DUMMY/LJ002-0145.wav|Often a commissioner had to leave the bench because he was himself a party to the suit that was sub judice.
+DUMMY/LJ002-0146.wav|The activity as well as the futility of these courts may be estimated from the statement given by Neild
+DUMMY/LJ002-0147.wav|that thirteen hundred and twelve debtors were committed by them to Newgate between 1797 and 1808,
+DUMMY/LJ002-0148.wav|and that no more than 197 creditors recovered debts and costs.
+DUMMY/LJ002-0149.wav|The latter indeed hung like millstones round the neck of the unhappy insolvent wretches who found themselves in limbo.
+DUMMY/LJ002-0150.wav|Costs were the gallons of sack to the pennyworth of debt.
+DUMMY/LJ002-0151.wav|Neild found at his visit to Newgate in 1810,
+DUMMY/LJ002-0152.wav|fourteen men and women who had lain there ten, eleven, and thirteen years for debts of a few shillings,
+DUMMY/LJ002-0153.wav|weighted by treble the amount of costs.
+DUMMY/LJ002-0154.wav|Thus, amongst others, Thomas Blackburn had been committed on October 15th for a debt of 1 shilling 5 pence.
+DUMMY/LJ002-0155.wav|for which the costs were 6 shillings 10 pence.
+DUMMY/LJ002-0156.wav|Thomas Dobson, on 22nd August, 1799, for 1 shilling, with costs of 8 shillings, 10 pence.
+DUMMY/LJ002-0157.wav|and Susannah Evans, in October the same year, for 2 shillings, with costs of 6 shillings, 8 pence.
+DUMMY/LJ002-0158.wav|Other cases are recorded elsewhere, as at the Giltspur Street Compter, where in 1805 Mr. Neild found a man named William Grant
+DUMMY/LJ002-0159.wav|detained for 1 shilling 9 pence, with costs of 5 shillings.
+DUMMY/LJ002-0160.wav|and John Lancaster for 1 shilling, 8 pence, with costs of 7 shillings, 6 pence. Quote.
+DUMMY/LJ002-0161.wav|These surely, I thought," says Mr. Neild, "were bad enough! But it was not so. End quote.
+DUMMY/LJ002-0162.wav|He recites another most outrageous and extraordinary case, in which one John Bird,
+DUMMY/LJ002-0163.wav|a market porter, was arrested and committed at the suit of a publican
+DUMMY/LJ002-0164.wav|for the paltry sum of 4 pence, with costs of 7 shillings, 6 pence.
+DUMMY/LJ002-0165.wav|Bird was, however, discharged within three days by a subscription raised among his fellow-prisoners.
+DUMMY/LJ002-0166.wav|Mr. Buxton, in his "Inquiry into the System of Prison Discipline,"
+DUMMY/LJ002-0167.wav|quotes a case which came within his own knowledge of a boy sent to prison for non-payment of one penny.
+DUMMY/LJ002-0168.wav|The lad in question was found in Coldbath Fields prison, to which he had been sent for a month in default of paying a fine of forty shillings.
+DUMMY/LJ002-0169.wav|He had been in the employ of a corn-chandler at Islington, and went into London with his master's cart and horse.
+DUMMY/LJ002-0170.wav|There was in the City Road a temporary bar, with a collector of tolls who was sometimes on the spot and sometimes not.
+DUMMY/LJ002-0171.wav|The boy declared he saw no one, and accordingly passed through without paying the toll of a penny.
+DUMMY/LJ002-0172.wav|For this he was summoned before a magistrate, and sentenced as already stated.
+DUMMY/LJ002-0173.wav|The lad was proved to be of good character and the son of respectable parents.
+DUMMY/LJ002-0174.wav|Mr. Buxton's friends at once paid the forty shillings, and the boy was released.
+DUMMY/LJ002-0175.wav|The costs in heavier debts always doubled the sum; if the arrest was made in the country it trebled it.
+DUMMY/LJ002-0176.wav|Neild gives a list of the various items charged upon a debt of £10, which included instructions to sue,
+DUMMY/LJ002-0177.wav|affidavit of debt, drawing praecipe (1 pound, 5 shillings), capias, fee to officer on arrest,
+DUMMY/LJ002-0178.wav|affidavit of service, and many more, amounting in all to twenty-seven,
+DUMMY/LJ002-0179.wav|and costing 11 pounds, 15 shillings, 8 pence, within ten days.
+DUMMY/LJ002-0180.wav|Before dealing with the debtors in Newgate, I may refer incidentally
+DUMMY/LJ002-0181.wav|to those in other London prisons, for Newgate was not the only place of durance for these unfortunate people. There were also the King's Bench,
+DUMMY/LJ002-0182.wav|the Fleet, and the Marshalsea prisons especially devoted to them,
+DUMMY/LJ002-0183.wav|whilst Ludgate, the Giltspur Street, and Borough Compters also received them
+DUMMY/LJ002-0184.wav|the latter two being also a prison for felons and vagrants arrested within certain limits.
+DUMMY/LJ002-0185.wav|The King's Bench was a national prison, in which were confined all debtors arrested for debt or for contempt of the court of the King's Bench.
+DUMMY/LJ002-0186.wav|The population generally amounted to from five hundred to seven hundred, the accommodation being calculated for two hundred.
+DUMMY/LJ002-0187.wav|Every new-comer was entitled to a "chummage" ticket, but did not always get it,
+DUMMY/LJ002-0188.wav|being often obliged to pay a high rent for a bed at the coffee-house or in some room which was vacated by its regular occupant.
+DUMMY/LJ002-0189.wav|No fixed rates or rules governed the hiring out of rooms or parts of a room, and all sorts of imposition was practiced.
+DUMMY/LJ002-0190.wav|The best, or at least the most influential prisoners, got lodging in the State House, which contained "eight large handsome rooms."
+DUMMY/LJ002-0191.wav|Besides those actually resident within the walls,
+DUMMY/LJ002-0192.wav|another two hundred more or less took advantage of "the rules," and lived outside within a circumference of two miles and a half.
+DUMMY/LJ002-0193.wav|In these cases security was given for the amount of the debt,
+DUMMY/LJ002-0194.wav|and a heavy fee at the rate of £8 per £100, with £4 for every additional hundred.
+DUMMY/LJ002-0195.wav|Besides these, a number had the privilege of a "run on the key," which allowed a prisoner to go into the rules for the day.
+DUMMY/LJ002-0196.wav|The foregoing rentals and payments for privileges, together with fees exacted on commitment and discharge, went to the marshal or keeper of the prison,
+DUMMY/LJ002-0197.wav|whose net annual income thus entirely derived from the impecunious amounted to between three and four thousand pounds.
+DUMMY/LJ002-0198.wav|The office of marshal had been hereditary,
+DUMMY/LJ002-0199.wav|but in the 27th George II the right of presentation was bought by the Crown for £10,500.
+DUMMY/LJ002-0200.wav|The marshal was supposed to be resident either within the prison or the rules.
+DUMMY/LJ002-0201.wav|He seems to have felt no responsibility as to the welfare or comfort of those in charge, and out of whom he made all his money.
+DUMMY/LJ002-0202.wav|The prison was always in "the most filthy state imaginable."
+DUMMY/LJ002-0203.wav|The half or wholly starved prisoners fished for alms or food at the gratings.
+DUMMY/LJ002-0204.wav|When they were sick no more notice was taken of them than of a dog.
+DUMMY/LJ002-0205.wav|A man dying of liver complaint lay on the cold stones without a bed or food to eat.
+DUMMY/LJ002-0206.wav|Dissolute habits prevailed on all sides; drunkenness was universal, gambling perpetual.
+DUMMY/LJ002-0207.wav|The yards were taken up with rackets and five courts, and here and there were "bumble puppy grounds," a game in which the players rolled iron balls
+DUMMY/LJ002-0208.wav|into holes marked with numbers.
+DUMMY/LJ002-0209.wav|How to make most profit out of the wretched denizens of the jail was the marshal's only care. He got a rent for the coffee-house and the bake-house;
+DUMMY/LJ002-0210.wav|the keeper of the large tap-room called the Brace, because it was once kept by two brothers named Partridge, also paid him toll.
+DUMMY/LJ002-0211.wav|The sale of spirits was forbidden, but gin could always be had at the whistling shops, where it was known as Moonshine, Sky Blue,
+DUMMY/LJ002-0212.wav|Mexico, and was consumed at the rate of a hogshead per week.
+DUMMY/LJ002-0213.wav|The Fleet, which stood in Farringdon Street,
+DUMMY/LJ002-0214.wav|was a prison for debtors and persons committed for contempt by the courts of Chancery, Exchequer, and Common Pleas.
+DUMMY/LJ002-0215.wav|It was so used for the date of the abolition of the Star Chamber in the 16th Charles I.
+DUMMY/LJ002-0216.wav|The shameful malpractices of Bambridge,
+DUMMY/LJ002-0217.wav|the warden of the Fleet at the commencement of the eighteenth century, are too well known to need more than a passing reference.
+DUMMY/LJ002-0218.wav|A committee of the House of Commons investigated the charges against Bambridge, who was proved to have connived at the escape of some debtors,
+DUMMY/LJ002-0219.wav|and to have been guilty of extortion to others. One Sir William Rich, Bart., he had loaded with heavy irons
+DUMMY/LJ002-0220.wav|In consequence of these disclosures, both Bambridge and Huggin, his predecessor in the office, were committed to Newgate,
+DUMMY/LJ002-0221.wav|and many reforms instituted. But the condition of the prison and its inmates remained unsatisfactory to the last.
+DUMMY/LJ002-0222.wav|It contained generally from six to seven hundred inmates, while another hundred more or less resided in the rules outside.
+DUMMY/LJ002-0223.wav|The principle of "chummage" prevailed as in the King's Bench,
+DUMMY/LJ002-0224.wav|but a number of rooms, fifteen more or less, were reserved for poor debtors under the name of Bartholomew Fair.
+DUMMY/LJ002-0225.wav|The rentals of rooms and fees went to the warden, whose income was £2372.
+DUMMY/LJ002-0226.wav|The same evils of overcrowding, uncleanliness, want of medical attendance,
+DUMMY/LJ002-0227.wav|absence or neglect of divine service, were present as in the King's Bench, but in an exaggerated form.
+DUMMY/LJ002-0228.wav|The Committee on Jails reported that, quote, although the house of the warden looked into the court,
+DUMMY/LJ002-0229.wav|and the turnkeys slept in the prison, yet scenes of riot, drunkenness, and disorder were most prevalent, end quote.
+DUMMY/LJ002-0230.wav|The state of morals was disgraceful. Any woman obtained admission if sober, and if she got drunk she was not turned out.
+DUMMY/LJ002-0231.wav|There was no distinct place for the female debtors, who lived in the same galleries as the men.
+DUMMY/LJ002-0232.wav|Disturbances were frequent, owing to the riotous conduct of intoxicated women.
+DUMMY/LJ002-0233.wav|Twice a week there was a wine and beer club held at night, which lasted till two or three in the morning.
+DUMMY/LJ002-0234.wav|In the yard behind the prison
+DUMMY/LJ002-0235.wav|were places set apart for skittles, fives, and tennis, which strangers frequented as any other place of public amusement.
+DUMMY/LJ002-0236.wav|Matters were rather better at the Marshalsea.
+DUMMY/LJ002-0237.wav|This very ancient prison, which stood in the High Street, Southwark,
+DUMMY/LJ002-0238.wav|was used for debtors arrested for the lowest sums within twelve miles of the palace of Whitehall;
+DUMMY/LJ002-0239.wav|also for prisoners committed by the Admiralty Court.
+DUMMY/LJ002-0240.wav|At one time the Marshalsea was the receptacle of pirates, but none were committed to it after 1789.
+DUMMY/LJ002-0241.wav|The court of the Marshalsea was instituted by Charles I. in the sixth year of his reign,
+DUMMY/LJ002-0242.wav|to be held before the steward of the royal household, the knight marshal, and the steward of the court,
+DUMMY/LJ002-0243.wav|with jurisdiction to hold pleas in all actions within the prescribed limits. The court was chiefly used for the recovery of small debts under £10
+DUMMY/LJ002-0244.wav|but its business was much reduced by the extension of the Courts of Conscience.
+DUMMY/LJ002-0245.wav|The prison was a nest of abuses, like its neighbor the King's Bench
+DUMMY/LJ002-0246.wav|and came under the strong animadversion of the Jail Committee of 1729.
+DUMMY/LJ002-0247.wav|As the business of the Marshalsea Court declined, the numbers in its prison diminished.
+DUMMY/LJ002-0248.wav|The population, as reported by the committee in 1814, averaged about sixty,
+DUMMY/LJ002-0249.wav|and the prison, although wives and children resided within the walls, was not overcrowded.
+DUMMY/LJ002-0250.wav|Their conduct too was orderly on the whole.
+DUMMY/LJ002-0251.wav|Drunkenness was not common, chiefly because liquor was not to be had freely, although the tapster paid a rent of two guineas a week for permission to sell it.
+DUMMY/LJ002-0252.wav|The inmates, who euphemistically styled themselves "collegians,"
+DUMMY/LJ002-0253.wav|were governed by rules which they themselves had framed, and under which subscriptions were levied
+DUMMY/LJ002-0254.wav|and fines imposed for conduct disapproved of by the "college."
+DUMMY/LJ002-0255.wav|A court of the collegians was held every Monday to manage its affairs, at which all prisoners were required to attend.
+DUMMY/LJ002-0256.wav|A committee of collegians was elected to act as the executive, also a secretary or accountant to receive monies and keep books,
+DUMMY/LJ002-0257.wav|and a master of the ale-room, who kept this the scene of their revels clean, and saw that boiling water was provided for grog.
+DUMMY/LJ002-0258.wav|Bad language, quarreling, throwing water over one another was forbidden on pain of fine and being sent to Coventry;
+DUMMY/LJ002-0259.wav|but the prevailing moral tone may be guessed from the penalty inflicted upon persons singing obscene songs before nine p.m.
+DUMMY/LJ002-0260.wav|Yet the public opinion of the whole body seems to have checked dissipation.
+DUMMY/LJ002-0261.wav|The poorer prisoners were not in abject want, as in other prisons,
+DUMMY/LJ002-0262.wav|owing to many charitable gifts and bequests, which included annual donations from the Archbishop of Canterbury,
+DUMMY/LJ002-0263.wav|the Lord Steward of the Household, the steward and officers of the Marshalsea Court, and others.
+DUMMY/LJ002-0264.wav|Legacies had also been left to free a certain number of debtors, notably that of £100 per annum
+DUMMY/LJ002-0265.wav|left by a Mr. Henry Allnutt, who was long a prisoner in the Marshalsea, and came into a fortune while there.
+DUMMY/LJ002-0266.wav|His bequest, which was charged upon his manor at Goring, Oxon, and hence called the Oxford Charity,
+DUMMY/LJ002-0267.wav|was applied only to the release of poor debtors whom £4 each could free.
+DUMMY/LJ002-0268.wav|The supreme control of the Marshalsea was vested in the marshal of the royal household; but although he drew a salary of £500 a year,
+DUMMY/LJ002-0269.wav|he did nothing beyond visiting the prison occasionally, and left the administration to the deputy marshal.
+DUMMY/LJ002-0270.wav|The latter's salary, with fees, the rent of the tap and of the chandler's shop, amounted to about £600 a year.
+DUMMY/LJ002-0271.wav|The compters of Ludgate, Giltspur Street, and the Borough were discontinued as debtors' prisons (as was Newgate also)
+DUMMY/LJ002-0272.wav|on the opening of Whitecross prison for debtors in 1815.
+DUMMY/LJ002-0273.wav|Ludgate to the last was the debtors' prison for freemen of the city of London,
+DUMMY/LJ002-0274.wav|clergymen, proctors, attorneys, and persons specially selected by the Corporation.
+DUMMY/LJ002-0275.wav|At one time the Ludgate debtors, accompanied by the keeper,
+DUMMY/LJ002-0276.wav|went outside and beyond the prison to call on their creditors, and try to arrange their debts, but this practice was discontinued.
+DUMMY/LJ002-0277.wav|There were fifteen rooms of various sizes, and as the numbers imprisoned rarely exceeded five-and-twenty, the place was never overcrowded,
+DUMMY/LJ002-0278.wav|while the funds of several bequests and charities were applied in adding to the material comfort of the prisoners.
+DUMMY/LJ002-0279.wav|The Giltspur Street Compter received sheriffs' debtors, also felons, vagrants, and night charges.
+DUMMY/LJ002-0280.wav|It was generally crowded, as debtors who would have gone to the Poultry Compter were sent to Giltspur Street when the former was condemned as unfit to receive prisoners.
+DUMMY/LJ002-0281.wav|The demands for fees were excessive in Giltspur Street.
+DUMMY/LJ002-0282.wav|Those who could not pay were thrown into the wards with the night charges,
+DUMMY/LJ002-0283.wav|and denied admission to the "charity wards," which partook of all the benefits of bequests and donations to poor debtors.
+DUMMY/LJ002-0284.wav|The Borough Compter was in a disgraceful state to the last. The men's ward had an earth, or rather a mud, floor,
+DUMMY/LJ002-0285.wav|and was so unfit to sleep on that it had not been used for many years, so that the men and women associated together indiscriminately.
+DUMMY/LJ002-0286.wav|The rooms had no fireplaces, so it mattered little that no coals were allowed.
+DUMMY/LJ002-0287.wav|There were no beds or bedding, no straw even.
+DUMMY/LJ002-0288.wav|In one room Mr. Neild found a woman ill of a flux shut up with three men;
+DUMMY/LJ002-0289.wav|the latter raised eighteen pence among them to pay for a truss of straw for the poor woman to lie on.
+DUMMY/LJ002-0290.wav|Neild found the prisoners in the Borough Compter ragged, starving, and dirty.
+DUMMY/LJ002-0291.wav|I come now to the debtors in Newgate. The quarters they occupied were divided, as I have said, into three principal divisions
+DUMMY/LJ002-0292.wav|the master's side, the cabin side, and the common side. Payment of a fee of 3 shillings gained the debtor admission to the two first named;
+DUMMY/LJ002-0293.wav|those who could pay nothing went, as a matter of course, to the common side;
+DUMMY/LJ002-0294.wav|a further fee was, however, demanded from the new-comer before he was made free of either the master's or the cabin side.
+DUMMY/LJ002-0295.wav|This was the reprehensible claim for "garnish," which had already been abolished in all well-conducted prisons, but which still was demanded in Newgate.
+DUMMY/LJ002-0296.wav|Garnish on the cabin side was a guinea at entrance for coals, candles, brooms, etc., and a gallon of beer on discharge;
+DUMMY/LJ002-0297.wav|on the master's side it was thirteen and fourpence, and a gallon of beer on entrance, although Mr. Newman,
+DUMMY/LJ002-0298.wav|in his evidence in 1814, said it was more,
+DUMMY/LJ002-0299.wav|and gave the garnish for the common side at that sum, which is five shillings more than Mr. Neild says was extorted on the common side.
+DUMMY/LJ002-0300.wav|Numerous tyrannies were practiced on all who would not and could not pay the garnish.
+DUMMY/LJ002-0301.wav|They were made to wash and swab the ward, or they were shut out from the ward fireplace, and forbidden to pass a chalked line drawn on the floor,
+DUMMY/LJ002-0302.wav|and so were unable either to warm themselves or to cook their food.
+DUMMY/LJ002-0303.wav|Besides these fees, legitimate and illegitimate, there were others which must be paid before release.
+DUMMY/LJ002-0304.wav|The sheriff demanded 4 shillings, 6 pence for his liberate, the jailer 6 shillings, 10 pence more, and the turnkey 2 shillings;
+DUMMY/LJ002-0305.wav|and thus when the debtor's debt had been actually paid, or when he had abandoned his property to the creditors, and, almost destitute,
+DUMMY/LJ002-0306.wav|looked forward to his liberty, he was still delayed until he had paid a new debt arising, quote,
+DUMMY/LJ002-0307.wav|only out of a satisfaction of all his former debts, end quote. The fees were not always extorted, it is true;
+DUMMY/LJ002-0308.wav|nor was non-payment made a pretext for further imprisonment, thanks to the humanity of the jailer, or the funds provided by various charities.
+DUMMY/LJ002-0309.wav|There was this much honest forbearance in Newgate in these days,
+DUMMY/LJ002-0310.wav|that debtors who could afford the cabin and master's side were not permitted to share in the prison charities.
+DUMMY/LJ002-0311.wav|These were lumped together into a general fund,
+DUMMY/LJ002-0312.wav|and a calculation made as to the amount that might be expended per week from the whole sum, so that the latter might last out the year.
+DUMMY/LJ002-0313.wav|It generally ran to about six pounds per week. The money, which at one time had been distributed quarterly, and all went in drink,
+DUMMY/LJ002-0314.wav|was after 1807, through the exertions of the keeper of the jail, spent in the purchase of necessaries.
+DUMMY/LJ002-0315.wav|But this weekly pittance did not go far when the debtors' side was crowded, as it often was;
+DUMMY/LJ002-0316.wav|notably as when numbers filled Newgate in anticipation of Lord Redesdale's bill for insolvent debtors,
+DUMMY/LJ002-0317.wav|and there were as many as three hundred and fifty prisoners in at one time.
+DUMMY/LJ002-0318.wav|The city also allowed the poor debtors fourteen ounces of bread daily, and their share of eight stone of meat, an allowance which never varied,
+DUMMY/LJ002-0319.wav|issued once a week, and divided as far as it would go -- a very precarious and uncertain ration.
+DUMMY/LJ002-0320.wav|The bread was issued every alternate day; and while some prisoners often ate their whole allowance at once,
+DUMMY/LJ002-0321.wav|others who arrived just after the time of distribution were often forty-eight hours without food. The latter might also be six days without meat.
+DUMMY/LJ002-0322.wav|Share in the weekly allowance of meat might also be denied to debtors who had not paid "garnish," as well as in the weekly grant from the charitable fund.
+DUMMY/LJ002-0323.wav|Hence starvation stared many in the face, unless friends from outside came to their assistance,
+DUMMY/LJ002-0324.wav|or the keeper made them a special grant of 6 pence per diem out of the common stock;
+DUMMY/LJ002-0325.wav|or the sixpenny allowance was claimed for the creditors, which seldom happened, owing to the expense the process entailed.
+DUMMY/LJ002-0326.wav|The poor debtors were not supplied with beds. Those who could pay the price might hire them from each other,
+DUMMY/LJ002-0327.wav|or from persons who made a trade of it, or they might bring their beds with them into the prison.
+DUMMY/LJ002-0328.wav|Failing any of these methods, seeing that straw was forbidden for fear of fire, they had to be satisfied with a couple of the rugs provided by the city
+DUMMY/LJ002-0329.wav|the supply of which was, however, limited, and there were not always enough to give bedding to all. The stock was diminished by theft;
+DUMMY/LJ002-0330.wav|female visitors carried them out of the prisons, or the debtors destroyed them when the weather was warm,
+DUMMY/LJ002-0331.wav|and they were not in great demand, in order to convert them into mop-heads or cleaning-rags.
+DUMMY/LJ002-0332.wav|Sometimes rugs were urgently required and not forthcoming;
+DUMMY/LJ002-0333.wav|a severe winter set in, the new stock had not been supplied by the contractors, and the poor debtors perished of cold.
+DUMMY/LJ002-0334.wav|Again, there was no regular allowance of fuel. Coals were purchased out of the garnish money and the charitable fund;
+DUMMY/LJ002-0335.wav|so were candles, salt, pepper, mops and brooms. But the latter could have been of little service. Dirt prevailed everywhere;
+DUMMY/LJ002-0336.wav|indeed the place, with its oak floors caulked with pitch, and smoked ceilings,
+DUMMY/LJ002-0337.wav|could not be made even to look clean while there was no obligation of personal cleanliness on individuals, who often came into the prison in filthy rags.
+DUMMY/LJ002-0338.wav|Only now and again, in extreme cases, an unusually nasty companion was stripped, haled to the pump,

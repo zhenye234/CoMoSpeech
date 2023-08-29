@@ -1,0 +1,348 @@
+DUMMY/LJ003-0001.wav|The Chronicles of Newgate, Volume 2. By Arthur Griffiths. Section 5: Newgate down to 1818, part 2.
+DUMMY/LJ003-0002.wav|The squalor and uncleanness of the debtors' side was intensified by constant overcrowding.
+DUMMY/LJ003-0003.wav|Prisoners were committed to it quite without reference to its capacity.
+DUMMY/LJ003-0004.wav|No remonstrance was attended to,
+DUMMY/LJ003-0005.wav|no steps taken to reduce the number of committals, and the governor was obliged to utilize the chapel as a day and night room.
+DUMMY/LJ003-0006.wav|Besides this, although the families of debtors were no longer permitted to live with them inside the jail,
+DUMMY/LJ003-0007.wav|hundreds of women and children came in every morning to spend the day there, and there was no limitation whatever to the numbers of visitors admitted to the debtors' side.
+DUMMY/LJ003-0008.wav|Friends arrived about nine a.m., and went out at nine p.m., when as many as two hundred visitors have been observed leaving the debtors' yards at one time.
+DUMMY/LJ003-0009.wav|The day passed in revelry and drunkenness. Although spirituous liquors were forbidden,
+DUMMY/LJ003-0010.wav|wine and beer might be had in any quantity, the only limitation being
+DUMMY/LJ003-0011.wav|that not more than one bottle of wine or one quart of beer could be issued at one time. No account was taken of the amount of liquors admitted in one day,
+DUMMY/LJ003-0012.wav|and debtors might practically have as much as they liked, if they could only pay for it.
+DUMMY/LJ003-0013.wav|No attempt was made to check drunkenness, beyond the penalty of shutting out friends from any ward in which a prisoner exceeded.
+DUMMY/LJ003-0014.wav|Quarreling among the debtors was not unfrequent. Blows were struck, and fights often ensued.
+DUMMY/LJ003-0015.wav|For this and other acts of misconduct there was the discipline of the refractory ward, or "strong room" on the debtors' side.
+DUMMY/LJ003-0016.wav|Bad cases were removed to a cell on the felons' side, and here they were locked in solitary confinement for three days at a time.
+DUMMY/LJ003-0017.wav|Order throughout the debtors' side was preserved
+DUMMY/LJ003-0018.wav|and discipline maintained by a system open to grave abuses, and which had the prescription of long usage,
+DUMMY/LJ003-0019.wav|and which was never wholly rooted out for many years to come.
+DUMMY/LJ003-0020.wav|This was the pernicious plan of governing by prisoners, or of setting a favored few in authority over the many.
+DUMMY/LJ003-0021.wav|The head of the debtors' prison was a prisoner called the steward, who was chosen by the whole body from six whom the keeper nominated.
+DUMMY/LJ003-0022.wav|This steward was practically supreme.
+DUMMY/LJ003-0023.wav|All the allowances of food passed through his hands; he had the control of the poor-box for chance charities,
+DUMMY/LJ003-0024.wav|he collected the garnish money, and distributed the weekly grant from the prison charitable fund.
+DUMMY/LJ003-0025.wav|In the latter duties he was, however, supervised by three auditors, freely chosen by the prisoners among themselves.
+DUMMY/LJ003-0026.wav|The auditors were paid a shilling each for their services each time the poor-box was opened. The steward was also remunerated for his trouble.
+DUMMY/LJ003-0027.wav|He had a double allowance of bread, deducted, of course, from the already too limited portion of the rest,
+DUMMY/LJ003-0028.wav|and no doubt made the meat also pay toll.
+DUMMY/LJ003-0029.wav|Under the steward there were captains of wards, chosen in the same way, and performing analogous duties.
+DUMMY/LJ003-0030.wav|These subordinate chiefs were also rewarded out of the scanty prison rations.
+DUMMY/LJ003-0031.wav|The same system was extended to the criminal side, and cases were on record of the place of wardsman being sold for considerable sums.
+DUMMY/LJ003-0032.wav|So valuable were they deemed, that as much as fifty guineas was offered to the keeper for the post.
+DUMMY/LJ003-0033.wav|Enough has been said, probably, to prove that there was room for improvement in the condition and treatment of debtors in the prisons of the city of London.
+DUMMY/LJ003-0034.wav|This gradually was forced upon the consciousness of the Corporation,
+DUMMY/LJ003-0035.wav|and about 1812 application was made to Parliament for funds to build a new debtors' prison.
+DUMMY/LJ003-0036.wav|Authority was given to raise money on the Orphans' Fund to the extent of £90,000.
+DUMMY/LJ003-0037.wav|A site was purchased between Red Lion and White Cross streets, and a new prison planned,
+DUMMY/LJ003-0038.wav|which would accommodate the inmates of Newgate and of the three compters, Ludgate,
+DUMMY/LJ003-0039.wav|Giltspur Street, and the Poultry, or about four hundred and seventy-six in all.
+DUMMY/LJ003-0040.wav|The evils of association for these debtors were perpetuated, although the plan provided for the separation of the various contingents committed to it.
+DUMMY/LJ003-0041.wav|There was no lack of air and light for the new jail, and several exercising yards.
+DUMMY/LJ003-0042.wav|The completion of this very necessary building was, however, much delayed for want of funds,
+DUMMY/LJ003-0043.wav|and it was not ready to relieve Newgate till late in 1815.
+DUMMY/LJ003-0044.wav|The reforms which were to be attempted in that prison
+DUMMY/LJ003-0045.wav|more particularly as regarded the classification of prisoners, and which were dependent on the space to be gained by the removal of the debtors,
+DUMMY/LJ003-0046.wav|could not be carried out till then. It is to be feared that long after the opening of White Cross Street prison,
+DUMMY/LJ003-0047.wav|Newgate continued to be a reproach to those responsible for its management.
+DUMMY/LJ003-0048.wav|I pass now to the criminal side of Newgate, which consisted of the six quarters or yards already enumerated and described.
+DUMMY/LJ003-0049.wav|The inmates of this part, as distinguished from the debtors, were comprised in four classes:
+DUMMY/LJ003-0050.wav|(1) those awaiting trial;
+DUMMY/LJ003-0051.wav|(2) persons under sentence of imprisonment for a fixed period, or until they shall have paid certain fines;
+DUMMY/LJ003-0052.wav|(3) transports awaiting removal to the colonies, and (4) capital convicts, condemned to death and awaiting execution.
+DUMMY/LJ003-0053.wav|At one time the whole of these different categories were thrown together pell-mell, young and old, the untried with the convicted.
+DUMMY/LJ003-0054.wav|An imperfect attempt at classification was, however, made in 1812, and a yard was as far as possible set apart for the untried,
+DUMMY/LJ003-0055.wav|or class (1), with whom, under the imperious demand for accommodation, were also associated the misdemeanants, or class (2).
+DUMMY/LJ003-0056.wav|This was the chapel yard, with its five wards, which were calculated to hold seventy prisoners, but often held many more.
+DUMMY/LJ003-0057.wav|A further sub-classification was attempted by separating at night those charged with misdemeanors from those charged with felony,
+DUMMY/LJ003-0058.wav|but all mingled freely during the day in the yard.
+DUMMY/LJ003-0059.wav|The sleeping accommodation in the chapel-yard wards, and indeed throughout the prison, consisted of a barrack bed,
+DUMMY/LJ003-0060.wav|which was a wooden flooring on a slightly inclined plane, with a beam running across the top to serve as a pillow.
+DUMMY/LJ003-0061.wav|No beds were issued, only two rugs per prisoner.
+DUMMY/LJ003-0062.wav|When each sleeper had the full lateral space allotted to him, it amounted to one foot and a half on the barrack bed;
+DUMMY/LJ003-0063.wav|but when the ward was obliged to accommodate double the ordinary number, as was frequently the case,
+DUMMY/LJ003-0064.wav|the sleepers covered the entire floor, with the exception of a passage in the middle.
+DUMMY/LJ003-0065.wav|All the misdemeanants, whatever their offense, were lodged in this chapel ward.
+DUMMY/LJ003-0066.wav|As many various and, according to our ideas, heinous crimes came under this head,
+DUMMY/LJ003-0067.wav|in the then existing state of the law,
+DUMMY/LJ003-0068.wav|the man guilty of a common assault found himself side by side with the fraudulent, or others who had attempted abominable crimes.
+DUMMY/LJ003-0069.wav|In this heterogeneous society were also thrown the unfortunate journalists to whom I have already referred, and on whom imprisonment in Newgate
+DUMMY/LJ003-0070.wav|was frequently adjudged for so-called libels, or too out-spoken comments in print.
+DUMMY/LJ003-0071.wav|It was particularly recommended by the Committee on Jails in 1814
+DUMMY/LJ003-0072.wav|that some other and less mixed prison should be used for the confinement of persons convicted of libels. But this suggestion was ignored.
+DUMMY/LJ003-0073.wav|Indeed the partial classification attempted seems to have been abandoned within a year or two.
+DUMMY/LJ003-0074.wav|The Hon. H. G. Bennet, who visited Newgate in 1817, saw in one yard, in a total of seventy-two prisoners,
+DUMMY/LJ003-0075.wav|thirty-five tried and thirty-seven untried. Of the former, three were transports for life,
+DUMMY/LJ003-0076.wav|four for fourteen years, and three of them persons sentenced to fines or short imprisonment -- one for little more than a month.
+DUMMY/LJ003-0077.wav|Two of the untried were for murder, and several for house-breaking and highway robbery.
+DUMMY/LJ003-0078.wav|Nor were the misdemeanants and bail prisoners any longer separated from those whose crimes were of a more serious character.
+DUMMY/LJ003-0079.wav|Mr. Bennet refers to a gentleman confined for want of bail, who occupied a room with five others
+DUMMY/LJ003-0080.wav|two committed by the Bankruptcy Commissioner, one for perjury, and two transports.
+DUMMY/LJ003-0081.wav|Persons convicted of publishing libels were still immured in the same rooms with transports and felons.
+DUMMY/LJ003-0082.wav|The middle yard, as far as its limits would permit, was appropriated to felons and transports. The wards here were generally very crowded.
+DUMMY/LJ003-0083.wav|Each ward was calculated to hold twenty-four, allowing each individual one foot and a half;
+DUMMY/LJ003-0084.wav|Quote, a common-sized man, says the keeper, Mr. Newman, can turn in nineteen inches, end quote.
+DUMMY/LJ003-0085.wav|These twenty-four could just sleep on the barrack bed; when the number was higher, and it often rose to forty, the surplus had to sleep on the floor.
+DUMMY/LJ003-0086.wav|The crowding was in consequence of the delay in removing transports.
+DUMMY/LJ003-0087.wav|These often remained in Newgate for six months, sometimes a year, in some cases longer;
+DUMMY/LJ003-0088.wav|in one, for seven years -- that of a man sentenced to death, for whom great interest had been made, but whom it was not thought right to pardon.
+DUMMY/LJ003-0089.wav|Occasionally the transports made themselves so useful in the jail that they were passed over.
+DUMMY/LJ003-0090.wav|Mr. Newman admitted that he had petitioned that certain "trusty men" might be left in the jail.
+DUMMY/LJ003-0091.wav|Constantly associated with these convicted felons were numbers of juveniles, infants of tender years.
+DUMMY/LJ003-0092.wav|There were frequently in the middle yard seven or eight children, the youngest barely nine,
+DUMMY/LJ003-0093.wav|the oldest only twelve or thirteen, exposed to all the contaminating influences of the place.
+DUMMY/LJ003-0094.wav|Mr. Bennet mentions also the case of young men of better stamp, clerks in city offices, and youths of good parentage,
+DUMMY/LJ003-0095.wav|Quote, in this dreadful situation, end quote. who had been rescued from the hulks through the kindness and attention of the Secretary of State.
+DUMMY/LJ003-0096.wav|Quote, yet they had been long enough, he goes on to say, in the prison associated with the lowest and vilest criminals,
+DUMMY/LJ003-0097.wav|with convicts of all ages and characters, to render it next to impossible but that, with the obliteration of all sense of self-respect,
+DUMMY/LJ003-0098.wav|the inevitable consequence of such a situation, their morals must have been destroyed;
+DUMMY/LJ003-0099.wav|and though distress or the seduction of others might have led to the commission of this their first offense,
+DUMMY/LJ003-0100.wav|yet the society they were driven to live in, the language they daily heard, and the lessons they were taught in this academy,
+DUMMY/LJ003-0101.wav|must have had a tendency to turn them into the world hardened and accomplished in the ways of vice and crime. End quote.
+DUMMY/LJ003-0102.wav|Mr. Buxton, in the work already quoted, instances another grievous case of the horrors of indiscriminate association in Newgate.
+DUMMY/LJ003-0103.wav|It was that of a person, quote, who practiced in the law, and who was connected by marriage with some very respectable families.
+DUMMY/LJ003-0104.wav|Having been committed to Clerkenwell,
+DUMMY/LJ003-0105.wav|he was sent on to Newgate in a coach, handcuffed to a noted house-breaker, who was afterwards cast for death.
+DUMMY/LJ003-0106.wav|The first night in Newgate, and for the subsequent fortnight,
+DUMMY/LJ003-0107.wav|he slept in the same bed with a highwayman on one side, and a man charged with murder on the other.
+DUMMY/LJ003-0108.wav|Spirits were freely introduced, and although he at first abstained,
+DUMMY/LJ003-0109.wav|he found he must adopt the manners of his companions, or that his life would be in danger.
+DUMMY/LJ003-0110.wav|They viewed him with some suspicion, as one of whom they knew nothing.
+DUMMY/LJ003-0111.wav|He was in consequence put out of the protection of their internal law, end quote. Their code was a subject of some curiosity.
+DUMMY/LJ003-0112.wav|When any prisoner committed an offense against the community or against an individual, he was tried by a court in the jail.
+DUMMY/LJ003-0113.wav|A prisoner, generally the oldest and most dexterous thief,
+DUMMY/LJ003-0114.wav|was appointed judge, and a towel tied in knots was hung on each side in imitation of a wig.
+DUMMY/LJ003-0115.wav|The judge sat in proper form; he was punctiliously styled "my lord."
+DUMMY/LJ003-0116.wav|A jury having been selected and duly sworn, the culprit was then arraigned. Justice, however, was not administered with absolute integrity.
+DUMMY/LJ003-0117.wav|A bribe to the judge was certain to secure acquittal, and the neglect of the formality was as certainly followed by condemnation.
+DUMMY/LJ003-0118.wav|Various punishments were inflicted, the heaviest of which was standing in the pillory.
+DUMMY/LJ003-0119.wav|This was carried out by putting the criminal's head through the legs of a chair, and stretching out his arms and tying them to the legs.
+DUMMY/LJ003-0120.wav|The culprit was then compelled to carry the chair about with him.
+DUMMY/LJ003-0121.wav|But all punishments might readily be commuted into a fine to be spent in gin for judge and jury.
+DUMMY/LJ003-0122.wav|The prisoner mentioned above was continually persecuted by trials of this kind.
+DUMMY/LJ003-0123.wav|The most trifling acts were magnified into offenses.
+DUMMY/LJ003-0124.wav|He was charged with moving something which should not be touched, with leaving a door open, or coughing maliciously to the disturbance of his companions.
+DUMMY/LJ003-0125.wav|The evidence was invariably sufficient to convict, and the judge never hesitated to inflict the heaviest penalties.
+DUMMY/LJ003-0126.wav|The unfortunate man was compelled at length to adopt the habits of his associates;
+DUMMY/LJ003-0127.wav|Quote, by insensible degrees he began to lose his repugnance to their society,
+DUMMY/LJ003-0128.wav|caught their flash terms and sung their songs, was admitted to their revels, and acquired, in place of habits of perfect sobriety,
+DUMMY/LJ003-0129.wav|a taste for spirits. End quote.
+DUMMY/LJ003-0130.wav|His wife visited him in Newgate, and wrote a pitiable account of the state in which she found her husband.
+DUMMY/LJ003-0131.wav|He was an inmate of the same ward with others of the most dreadful sort, quote,
+DUMMY/LJ003-0132.wav|whose language and manners, whose female associates of the most abandoned description, and the scenes consequent with such lost wretches
+DUMMY/LJ003-0133.wav|prevented me from going inside but seldom, and I used to communicate with him through the bars from the passage. End quote.
+DUMMY/LJ003-0134.wav|One day he was too ill to come down and meet her.
+DUMMY/LJ003-0135.wav|She went up to the ward and found him lying down, quote,
+DUMMY/LJ003-0136.wav|pale as death, very ill, and in a dreadfully dirty state, the wretches making game of him, and enjoying my distress;
+DUMMY/LJ003-0137.wav|and I learned he had been up with the others the whole night.
+DUMMY/LJ003-0138.wav|Though they could not force him to gamble, he was compelled to drink,
+DUMMY/LJ003-0139.wav|and I was obliged afterwards to let him have five shillings to pay his share,
+DUMMY/LJ003-0140.wav|otherwise he would have been stripped of his clothes. End quote.
+DUMMY/LJ003-0141.wav|Felons who could pay the price were permitted, irrespective of their character or offenses,
+DUMMY/LJ003-0142.wav|to purchase the greater ease and comfort of the master's side.
+DUMMY/LJ003-0143.wav|The entrance fee was at least 13 shillings, 6 pence a head, with half-a-crown a week more for bed and bedding,
+DUMMY/LJ003-0144.wav|the wards being furnished with barrack bedsteads, upon which each prisoner had the regulation allowance of sleeping room
+DUMMY/LJ003-0145.wav|or about a foot and a half laterally. These fees were in reality a substantial contribution towards the expenses of the jail;
+DUMMY/LJ003-0146.wav|without them the keeper declared that he could not pay the salaries of turnkeys and servants, nor keep the prison going at all.
+DUMMY/LJ003-0147.wav|Besides the jail fees, there was garnish of half-a-guinea, collected by the steward,
+DUMMY/LJ003-0148.wav|and spent in providing coals, candles, plates, knives, and forks; while all the occupants of this part of the prison
+DUMMY/LJ003-0149.wav|supported themselves; they had the ration of prison bread only,
+DUMMY/LJ003-0150.wav|but they had no share in the prison meat or other charities, and they or their friends found them in food.
+DUMMY/LJ003-0151.wav|All who could scrape together the cash seem to have gladly availed themselves of the privilege of entering the master's side.
+DUMMY/LJ003-0152.wav|It was the only way to escape the horrors, the distress, penury, and rags of the common yards.
+DUMMY/LJ003-0153.wav|Idleness was not so universally the rule in this part of the jail.
+DUMMY/LJ003-0154.wav|Artisans and others were at liberty to work at their trades, provided they were not dangerous.
+DUMMY/LJ003-0155.wav|Tailoring and shoemaking was permitted, but it was deemed unsafe to allow a carpenter or blacksmith to have his tools.
+DUMMY/LJ003-0156.wav|All the money earned by prisoners was at their own disposal, and was spent almost habitually in drink, chambering, and wantonness.
+DUMMY/LJ003-0157.wav|The best accommodation the jail could offer was reserved for the prisoners on the state side,
+DUMMY/LJ003-0158.wav|from whom still higher fees were exacted, with the same discreditable idea of swelling the revenues of the prison.
+DUMMY/LJ003-0159.wav|To constitute this the aristocratic quarter, unwarrantable demands were made upon the space properly allotted to the female felons,
+DUMMY/LJ003-0160.wav|and no lodger was rejected, whatever his status, who offered himself and could bring grist to the mill.
+DUMMY/LJ003-0161.wav|The luxury of the state side was for a long time open to all who could pay
+DUMMY/LJ003-0162.wav|the convicted felon, the transport awaiting removal, the lunatic whose case was still undecided,
+DUMMY/LJ003-0163.wav|the misdemeanant tried or untried, the debtor who wished to avoid the discomfort of the crowded debtors' side, the outspoken newspaper editor,
+DUMMY/LJ003-0164.wav|or the daring reporter of parliamentary debates.
+DUMMY/LJ003-0165.wav|The better class of inmate complained bitterly of this enforced companionship with the vile,
+DUMMY/LJ003-0166.wav|association at one time forbidden by custom, but which greed and rapacity long made the rule.
+DUMMY/LJ003-0167.wav|The fee for admission to the state side, as fixed by the table of fees, was three guineas, but Mr. Newman declared that he never took more than two.
+DUMMY/LJ003-0168.wav|Ten and sixpence a week more was charged as rent for a single bed; where two or more slept in a bed the rent was seven shillings a week each.
+DUMMY/LJ003-0169.wav|Prisoners who could afford it sometimes paid for four beds, at the rate of twenty-eight shillings, and so secured the luxury of a private room.
+DUMMY/LJ003-0170.wav|A Mr. Lundy, charged with forgery, was thus accommodated on the state side for upwards of five years.
+DUMMY/LJ003-0171.wav|But the keeper protested that no single prisoner could thus monopolize space if the state side was crowded.
+DUMMY/LJ003-0172.wav|The keeper went still further in his efforts to make money.
+DUMMY/LJ003-0173.wav|He continued the ancient practice of letting out a portion of his own house, and by a poetical fiction treated it as an annex of the state side.
+DUMMY/LJ003-0174.wav|Mr. Davison, sent to Newgate for embezzlement, and whose case is given in the preceding chapter,
+DUMMY/LJ003-0175.wav|was accommodated with a room in Mr. Newman's house at the extravagant rental of thirty guineas per week;
+DUMMY/LJ003-0176.wav|Mr. Cobbett was also a lodger of Mr. Newman's; and so were any members of the aristocracy,
+DUMMY/LJ003-0177.wav|if they happened to be in funds -- among whom was the Marquis of Sligo in 1811.
+DUMMY/LJ003-0178.wav|The female felons' wards I shall describe at length in the next chapter,
+DUMMY/LJ003-0179.wav|which will deal with Mrs. Fry's philanthropic exertions at this period in this particular part of the prison.
+DUMMY/LJ003-0180.wav|These wards were always full to overflowing; sometimes double the number the rooms could accommodate were crowded into them.
+DUMMY/LJ003-0181.wav|There was a master's side for females who could pay the usual fees, but they associated with the rest in the one narrow yard common to all.
+DUMMY/LJ003-0182.wav|The tried and the untried, young and old, were herded together
+DUMMY/LJ003-0183.wav|sometimes girls of thirteen, twelve, even ten or nine years of age, were exposed to, quote,
+DUMMY/LJ003-0184.wav|all the contagion and profligacy which prevailed in this part of the prison, end quote.
+DUMMY/LJ003-0185.wav|There was no separation even for the women under sentence of death, who lived in a common and perpetually crowded ward.
+DUMMY/LJ003-0186.wav|Only when the order of execution came down were those about to suffer placed apart in one of the rooms in the arcade of the middle ward.
+DUMMY/LJ003-0187.wav|I have kept till the last that part of the prison which was usually the last resting-place of so many.
+DUMMY/LJ003-0188.wav|The old press yard has been fully described in a previous chapter.
+DUMMY/LJ003-0189.wav|The name still survived in the new press yard, which was the receptacle of the male condemned prisoners. It was generally crowded, like the rest of the prison.
+DUMMY/LJ003-0190.wav|Except in murder cases, where the execution was generally very promptly performed,
+DUMMY/LJ003-0191.wav|strange and inconceivable delay occurred in carrying out the extreme sentence.
+DUMMY/LJ003-0192.wav|Hence there was a terrible accumulation of prisoners in the condemned cells.
+DUMMY/LJ003-0193.wav|Once, during the long illness of George III., as many as one hundred were there waiting the "Report," as it was called.
+DUMMY/LJ003-0194.wav|At another time there were fifty, one of whom had been under sentence a couple of years.
+DUMMY/LJ003-0195.wav|Mr. Bennet speaks of thirty-eight capital convicts he found in the press yard in February 1817,
+DUMMY/LJ003-0196.wav|five of whom had been condemned the previous July, four in September, and twenty-nine in October.
+DUMMY/LJ003-0197.wav|This procrastination bred certain callousness.
+DUMMY/LJ003-0198.wav|Few realizing that the dreadful fate would overtake them, dismissed the prospect of death,
+DUMMY/LJ003-0199.wav|and until the day was actually fixed, spent the time in roistering, swearing, gambling, or playing at ball.
+DUMMY/LJ003-0200.wav|Visitors were permitted access to them without stint;
+DUMMY/LJ003-0201.wav|unlimited drink was not denied them provided it was obtained in regulated quantities at one time.
+DUMMY/LJ003-0202.wav|These capital convicts, says Mr. Bennet, quote, lessened the ennui and despair of their situation by unbecoming merriment
+DUMMY/LJ003-0203.wav|or sought relief in the constant application of intoxicating stimulants.
+DUMMY/LJ003-0204.wav|I saw Cashman a few hours before his execution, smoking and drinking with the utmost unconcern and indifference, end quote.
+DUMMY/LJ003-0205.wav|Those who were thus reckless reacted upon the penitent who knew their days were numbered,
+DUMMY/LJ003-0206.wav|and their gibes and jollity counteracted the ordinary's counsels or the independent preacher's earnest prayers.
+DUMMY/LJ003-0207.wav|For while Roman Catholics and Dissenters were encouraged to see ministers of their own persuasion,
+DUMMY/LJ003-0208.wav|a number of amateurs were ever ready to give their gratuitous ministrations to the condemned.
+DUMMY/LJ003-0209.wav|The prisoners in the press yard had free access during the day to the yard and large day room;
+DUMMY/LJ003-0210.wav|at night they were placed in the fifteen cells, two, three, or more together, according to the total number to be accommodated.
+DUMMY/LJ003-0211.wav|They were never left quite alone for fear of suicide, and for the same reason they were searched for weapons or poisons.
+DUMMY/LJ003-0212.wav|But they nevertheless frequently managed to secrete the means of making away with themselves, and accomplished their purpose.
+DUMMY/LJ003-0213.wav|Convicted murderers were kept continuously in the cells on bread and water,
+DUMMY/LJ003-0214.wav|in couples, from the time of sentence to that of execution, which was about three or four days generally,
+DUMMY/LJ003-0215.wav|from Friday to Monday, so as to include one Sunday, on which day there was a special service for the condemned in the prison chapel.
+DUMMY/LJ003-0216.wav|This latter was an ordeal which all dreaded, and many avoided by denying their faith.
+DUMMY/LJ003-0217.wav|The condemned occupied an open pew in the center of the chapel, hung with black; in front of them, upon a table, was a black coffin in full view.
+DUMMY/LJ003-0218.wav|The chapel was filled with a curious but callous congregation, who came to stare at the miserable people thus publicly exposed.
+DUMMY/LJ003-0219.wav|Well might Mr. Bennet write that the condition of the condemned side was the most prominent of the manifold evils in the present system of Newgate,
+DUMMY/LJ003-0220.wav|quote, so discreditable to the metropolis, end quote.
+DUMMY/LJ003-0221.wav|Yet it must have been abundantly plain to the reader that the other evils existing were great and glaring. A brief summary of them will best prove this.
+DUMMY/LJ003-0222.wav|The jail was neither suitable nor sufficiently large. It was not even kept weather-tight.
+DUMMY/LJ003-0223.wav|The roof of the female prison, says the grand jury in their presentment in 1813, let in the rain.
+DUMMY/LJ003-0224.wav|Supplies of common necessaries, such as have now been part of the furniture of every British jail for many years,
+DUMMY/LJ003-0225.wav|were meager or altogether absent.
+DUMMY/LJ003-0226.wav|The rations of food were notoriously inadequate, and so carelessly distributed, that many were left to starve.
+DUMMY/LJ003-0227.wav|So unjust and unequal was the system, that the allowance to convicted criminals was better than that of the innocent debtor,
+DUMMY/LJ003-0228.wav|and the general insufficiency was such
+DUMMY/LJ003-0229.wav|that it multiplied beyond all reason the number of visitors, many of whom came merely as the purveyors of food to their friends.
+DUMMY/LJ003-0230.wav|The prison allowances were eked out by the broken victuals generously given by several eating-house keepers in the city,
+DUMMY/LJ003-0231.wav|such as Messrs. Birch of Cornhill and Messrs. Leach and Dollimore of Ludgate Hill.
+DUMMY/LJ003-0232.wav|These were fetched away in a large tub on a truck by a turnkey.
+DUMMY/LJ003-0233.wav|Amongst the heap was often the meat that had made turtle soup, which, when heated and stirred together in a saucepan, was said to be very good eating.
+DUMMY/LJ003-0234.wav|The bedding was scanty; fuel and light had to be purchased out of prisoners' private means; clothing was issued but rarely,
+DUMMY/LJ003-0235.wav|even to prisoners almost in nakedness, and as a special charitable gift. Extortion was practiced right and left.
+DUMMY/LJ003-0236.wav|Garnish continued to be demanded long after it had disappeared in other and better-regulated prisons.
+DUMMY/LJ003-0237.wav|The fees on reception and discharge must be deemed exorbitant, when it is remembered the impoverished class who usually crowded the jail;
+DUMMY/LJ003-0238.wav|and they were exacted to relieve a rich corporation from paying for the maintenance of their own prison.
+DUMMY/LJ003-0239.wav|This imposition of fees left prisoners destitute on their discharge, without funds to support them in their first struggle to recommence life,
+DUMMY/LJ003-0240.wav|with ruined character, bad habits, and often bad health contracted in the jail.
+DUMMY/LJ003-0241.wav|A further and a more iniquitous method of extorting money
+DUMMY/LJ003-0242.wav|was still practiced, that of loading newly-arrived prisoners until they paid certain fees.
+DUMMY/LJ003-0243.wav|Ironing was still the rule, not only for the convicted, but for those charged with felonies; only the misdemeanants escaped.
+DUMMY/LJ003-0244.wav|At the commencement of every sessions, such of the untried as had purchased "easement" of irons were called up and re-fettered,
+DUMMY/LJ003-0245.wav|preparatory to their appearance in the Old Bailey. Irons were seldom removed from the convicted until discharge;
+DUMMY/LJ003-0246.wav|sometimes the wearer was declared medically unfit, or he obtained release by long good conduct,
+DUMMY/LJ003-0247.wav|or the faithful discharge of some petty office, such as gatesman or captain of a ward.
+DUMMY/LJ003-0248.wav|The irons weighed from three to four pounds, but heavier irons, seven or eight pounds' weight,
+DUMMY/LJ003-0249.wav|were imposed in case of misconduct; and when there had been an attempt at escape,
+DUMMY/LJ003-0250.wav|the culprit was chained down to the floor by running a chain through his irons which prevented him from climbing to the window of his cell.
+DUMMY/LJ003-0251.wav|Among other excuses offered for thus manacling all almost without exception, was that it was the best and safest method
+DUMMY/LJ003-0252.wav|of distinguishing a prisoner from a stranger and temporary visitor.
+DUMMY/LJ003-0253.wav|Clothes or prison uniform would not have served the purpose, for a disguise can be rapidly and secretly put on,
+DUMMY/LJ003-0254.wav|whereas irons cannot well be exchanged without loss of time and attracting much attention.
+DUMMY/LJ003-0255.wav|The unchecked admission of crowds of visitors to the felons' as well as the debtors' side was another unmixed evil.
+DUMMY/LJ003-0256.wav|By this means spirits, otherwise unattainable and strictly prohibited, were smuggled into the jail.
+DUMMY/LJ003-0257.wav|Searches were made certainly, but they were too often superficial, or they might be evaded by a trifling bribe.
+DUMMY/LJ003-0258.wav|Hence the frequent cases of drunkenness, of which no notice was taken, unless people grew riotous in their cups
+DUMMY/LJ003-0259.wav|and attracted attention by their disorderly behavior.
+DUMMY/LJ003-0260.wav|Another frightful consequence of this indiscriminate admission was the influx of numbers of abandoned women,
+DUMMY/LJ003-0261.wav|only a few of whom had the commendable prudery to pass themselves off as the wives of prisoners.
+DUMMY/LJ003-0262.wav|Any reputed, and indeed any real, wife might spend the night in Newgate if she would pay the shilling fee, commonly known as the "bad money,"
+DUMMY/LJ003-0263.wav|which might have done something towards increasing the prison receipts, had it not been appropriated by the turnkey who winked at this evasion of the rules.
+DUMMY/LJ003-0264.wav|Among the daily visitors were members of the criminal classes still at large,
+DUMMY/LJ003-0265.wav|the thieves and burglars who carried on the active business of their profession, from which their confederates were temporarily debarred.
+DUMMY/LJ003-0266.wav|One notorious character, while a prisoner awaiting transfer to the hulks,
+DUMMY/LJ003-0267.wav|kept open house, so to speak, and entertained daily within the walls a select party of the most noted thieves in London.
+DUMMY/LJ003-0268.wav|This delectable society enticed into their set a clerk who had been imprisoned for fraud,
+DUMMY/LJ003-0269.wav|and offered him half the booty if he would give full information as to the transactions and correspondence of his late employers.
+DUMMY/LJ003-0270.wav|Owing to the facility of intercourse between inside and outside, many crimes were doubtless hatched in Newgate.
+DUMMY/LJ003-0271.wav|Some of the worst and most extensive burglaries were planned there.
+DUMMY/LJ003-0273.wav|I believe, says Mr. Bennet in the letter already largely quoted,
+DUMMY/LJ003-0274.wav|that there is no place in the metropolis where more crimes are projected or where stolen property is more secreted than in Newgate.
+DUMMY/LJ003-0275.wav|These malpractices were fostered by the absence of all supervision and the generally unbroken idleness.
+DUMMY/LJ003-0276.wav|Although attempted partially at Bridewell, and more systematically at the new Millbank penitentiary,
+DUMMY/LJ003-0277.wav|but just open (1816), the regular employment of prisoners had never yet been accepted as a principle in the metropolitan prisons.
+DUMMY/LJ003-0278.wav|Insuperable difficulties were still supposed to stand in the way of any general employment of prisoners at their trades.
+DUMMY/LJ003-0279.wav|There was fear as to the unrestricted use of tools,
+DUMMY/LJ003-0280.wav|limits of space, the interference of the ill-disposed, who would neither work nor let others do so,
+DUMMY/LJ003-0281.wav|and the danger of losing material, raw or manufactured.
+DUMMY/LJ003-0282.wav|Many years were to elapse before these objections should be fairly met and universally overcome.
+DUMMY/LJ003-0283.wav|It was not strange, therefore, that the inmates of Newgate should turn their unoccupied brains and idle hands to all manner of mischief;
+DUMMY/LJ003-0284.wav|that when they were not carousing, plotting, or scheming,
+DUMMY/LJ003-0285.wav|they should gamble with dice or cards, and play at bumble puppy or some other disreputable game of chance.
+DUMMY/LJ003-0286.wav|The report of the Committee of the House of Commons painted so black a picture of Newgate as then conducted, that the Corporation were roused in very shame
+DUMMY/LJ003-0287.wav|to undertake some kind of reform.
+DUMMY/LJ003-0288.wav|The above-mentioned report was ordered to be printed upon the 9th May.
+DUMMY/LJ003-0289.wav|Upon the 29th July the same year,
+DUMMY/LJ003-0290.wav|the court of aldermen appointed a committee of its own body, assisted by the town clerk, Mr. Dance, city surveyor, son to the architect of Newgate,
+DUMMY/LJ003-0291.wav|and Mr. Addison, keeper of Newgate, to make a visitation of the jails supposed to be the best managed, including those of Petworth and Gloucester.
+DUMMY/LJ003-0292.wav|This committee was to compare allowances, examine rules, and certify as to the condition of prisoners;
+DUMMY/LJ003-0293.wav|also to make such proposals as might appear salutary, and calculated to improve Newgate and the rest of the city jails.
+DUMMY/LJ003-0294.wav|This committee made its report in September the following year, and an excellent report it is, so far as its recommendations are concerned.
+DUMMY/LJ003-0295.wav|The committee seems to have fully realized, even at this early date (1815),
+DUMMY/LJ003-0296.wav|many of the indispensable conditions of a model prison according to modern ideas.
+DUMMY/LJ003-0297.wav|It admitted the paramount necessity
+DUMMY/LJ003-0298.wav|for giving every prisoner a sleeping cell to himself, an amount of enlightenment which is hardly general among European nations at this
+DUMMY/LJ003-0299.wav|the latter end of the nineteenth century, several of which still fall far short of our English ideal,
+DUMMY/LJ003-0300.wav|that all prisoners should always be in separate cells by night, and those of short sentences by day.
+DUMMY/LJ003-0301.wav|It recommended day cells or rooms for regular labor, which should be compulsory upon all transports and prisoners sentenced to hard labor,
+DUMMY/LJ003-0302.wav|the work being constant and suitable, with certain hours of relaxation and for food and exercise.
+DUMMY/LJ003-0303.wav|The personal cleanliness of all prisoners was to be insisted upon; they should be made to wash at least once a day,
+DUMMY/LJ003-0304.wav|with the penalty of forfeiting the day's allowance of food, an increase of which the committee had recommended.
+DUMMY/LJ003-0305.wav|The provision of more baths was also suggested, and the daily sweeping out of the prison.
+DUMMY/LJ003-0306.wav|The clothes of prisoners arriving dirty, or in rags, should be fumigated before worn in the jail,
+DUMMY/LJ003-0307.wav|but as yet no suggestion was made to provide prison uniform.
+DUMMY/LJ003-0308.wav|A laundry should be established, and a matron appointed on the female side, where all the prisoners' washing could be performed.
+DUMMY/LJ003-0309.wav|Proper hours for locking and unlocking prisoners should be insisted upon;
+DUMMY/LJ003-0310.wav|a bell should give notice thereof, and of meal-hours, working-hours, or of escapes.
+DUMMY/LJ003-0311.wav|The committee took upon itself to lay down stringent rules for the discipline of the prison.
+DUMMY/LJ003-0312.wav|The jailer should be required to visit every part and see every prisoner daily; the chaplain should perform service, visit the sick,
+DUMMY/LJ003-0313.wav|instruct the prisoners, quote, give spiritual advice and administer religious consolation, end quote. to all who might need them;
+DUMMY/LJ003-0314.wav|the surgeon should see all prisoners, whether ill or well, once a week, and take general charge of the infirmaries.
+DUMMY/LJ003-0315.wav|All three, governor, chaplain, and surgeon, should keep journals, which should be inspected periodically by the visiting magistrates.
+DUMMY/LJ003-0316.wav|It should be peremptorily forbidden to the keeper or any officer to make a pecuniary profit out of the supplies of food, fuel, or other necessaries.
+DUMMY/LJ003-0317.wav|No prisoner should be allowed to obtain superior accommodation on the payment of any fees. Fees indeed should be generally abolished, garnish also.
+DUMMY/LJ003-0318.wav|No prisoners should in future be ironed, except in cases of misconduct,
+DUMMY/LJ003-0319.wav|provided only that their security was not jeopardized, and dependent upon the enforcement of another new rule,
+DUMMY/LJ003-0320.wav|which recommended restrictions upon the number of visitors admitted.
+DUMMY/LJ003-0321.wav|No wine or beer should be in future admitted into or sold in the jail,
+DUMMY/LJ003-0322.wav|except for the use of the debtors, or as medical comforts for the infirmary.
+DUMMY/LJ003-0323.wav|Drunkenness, if it ever occurred, should be visited with severe punishment;
+DUMMY/LJ003-0324.wav|gaming of all sorts should be peremptorily forbidden under heavy pains and penalties.
+DUMMY/LJ003-0325.wav|The feelings of the condemned prisoners should no longer be outraged by their exposure in the chapel, and the chapel should be rearranged,
+DUMMY/LJ003-0326.wav|so that the various classes might be seated separately, and so as not to see each other.
+DUMMY/LJ003-0327.wav|It will hardly be denied that these proposals went to the root of the matter.
+DUMMY/LJ003-0328.wav|Had they been accepted in their entirety, little fault could in future have been found with the managers of Newgate.
+DUMMY/LJ003-0329.wav|In common justice to them, it must be admitted that immediate effect was given to all that could be easily carried out.
+DUMMY/LJ003-0330.wav|The state side ceased to exist, and the female prisoners thus regained the space of which their quadrangle had been robbed.
+DUMMY/LJ003-0331.wav|The privileges of the master's side also disappeared; fees were nominally abolished, and garnish was scotched, although not yet killed outright.
+DUMMY/LJ003-0332.wav|A certain number of bedsteads were provided, and there was a slight increase in the ration of bread.
+DUMMY/LJ003-0333.wav|But here the recommendations touched at once upon the delicate subject of expense, and it is clear that the committee hesitated on this score.
+DUMMY/LJ003-0334.wav|It made this too the excuse for begging the most important issue of the whole question.
+DUMMY/LJ003-0335.wav|The committee did not deny the superior advantages offered by such prisons as Gloucester and Petworth,
+DUMMY/LJ003-0336.wav|but it at once deprecated the idea that the city could follow the laudable example thus set in the provinces. Quote,
+DUMMY/LJ003-0337.wav|Were a metropolitan prison erected on the same lines, with all the space not only for air and exercise, but for day rooms and sleeping cells
+DUMMY/LJ003-0338.wav|End quote. it would cover some thirty acres, and cost a great deal more than the city, with the example of Whitecross Street prison before it,
+DUMMY/LJ003-0339.wav|could possibly afford.
+DUMMY/LJ003-0340.wav|The committee does not seem to have yet understood that Newgate could be only and properly replaced
+DUMMY/LJ003-0341.wav|by a new jail built on the outskirts, as Holloway eventually was, and permitted itself to be altogether countered
+DUMMY/LJ003-0342.wav|and checked in its efforts towards reform by the prohibitory costliness of the land about Newgate.
+DUMMY/LJ003-0343.wav|With the seeming impossibility of extending the limits of the prison as it then stood,
+DUMMY/LJ003-0344.wav|all chances of classification and separation vanished, and the greatest evils remained untouched.
+DUMMY/LJ003-0345.wav|All the committee could do in this respect was to throw the responsibility on others.
+DUMMY/LJ003-0346.wav|It pointed out that the Government was to blame for the overcrowding, and might diminish it if it chose.
+DUMMY/LJ003-0347.wav|It was very desirable that there should be a more speedy removal of transports from Newgate to the ships.
+DUMMY/LJ003-0348.wav|Again, there was the new Millbank penitentiary now ready for occupation.
+DUMMY/LJ003-0349.wav|Why not relieve Newgate by drawing more largely upon the superior accommodation which Millbank offered?
