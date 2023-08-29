@@ -2,7 +2,7 @@
 
 # COMOSPEECH
 
-Implementation of the Comospeech. For all details check out our paper accepted to ACM MM 2023: CoMoSpeech  One-Step Speech and Singing Voice Synthesis via Consistency Model.
+Implementation of the CoMospeech. For all details check out our paper accepted to ACM MM 2023: CoMoSpeech:  One-Step Speech and Singing Voice Synthesis via Consistency Model.
 
 **Authors**: Zhen Ye, Wei Xue, Xu Tan, Jie Chen, Qifeng Liu, Yike Guo.
 
@@ -43,7 +43,7 @@ We use LJSpeech datasets and follow the train/test/val split in fastspeech2, you
 Note that in params file. Teacher = True is for our teacher model, False is for our ComoSpeech. While training Comospeech, teacher checkpoint directory should be provide.
 
 ## Acknowledgement
-I would like to extend a special thanks to authors of Grad-TTS, since our code base is mainlly borrowed from  [Grad-TTS](https://github.com/huawei-noah/Speech-Backbones/blob/main/Grad-TTS/).
+I would like to extend a special thanks to authors of Grad-TTS, since our code base is mainly borrowed from  [Grad-TTS](https://github.com/huawei-noah/Speech-Backbones/blob/main/Grad-TTS/).
 
 ## Contact
 You are welcome to send pull requests or share some ideas with me. Contact information: Zhen YE ( zhenye312@gmail.com )
