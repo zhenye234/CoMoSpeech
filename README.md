@@ -42,6 +42,8 @@ We use LJSpeech datasets and follow the train/test/val split in fastspeech2, you
 ```
 Note that in params file. Teacher = True is for our teacher model, False is for our ComoSpeech. While training Comospeech, teacher checkpoint directory should be provide.
 
+Checkpoints trained on LJSpeech can be download from [here](https://drive.google.com/drive/folders/1rkbzl9NzS_fKtMubQ7FgSdgt7v8ZuYGk?usp=sharing).
+
 ## Acknowledgement
 I would like to extend a special thanks to authors of Grad-TTS, since our code base is mainly borrowed from  [Grad-TTS](https://github.com/huawei-noah/Speech-Backbones/blob/main/Grad-TTS/).
 
