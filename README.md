@@ -6,7 +6,10 @@ Implementation of the CoMospeech. For all details check out our paper accepted t
 
 **Authors**: Zhen Ye, Wei Xue, Xu Tan, Jie Chen, Qifeng Liu, Yike Guo.
 
- 
+# Update
+
+We add   Heun’s 2nd order method support for   teacher model. (can be used for teacher model sampling and better ODE trajectory for consistency distillation)
+
 
 ## Abstract
 
