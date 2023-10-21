@@ -289,9 +289,10 @@ class Como(BaseModule):
  
 
         # Time step discretization.
+        
+        num_steps=num_steps+1
         step_indices = torch.arange(num_steps,   device=latents.device)
 
-        num_steps=num_steps+1
         t_steps = (sigma_max ** (1 / rho) + step_indices / (num_steps - 1) * (sigma_min ** (1 / rho) - sigma_max ** (1 / rho))) ** rho
         t_steps = torch.cat([self.round_sigma(t_steps), torch.zeros_like(t_steps[:1])])  
 
@@ -312,6 +313,14 @@ class Como(BaseModule):
             d_cur = (x_hat - denoised) / t_hat
             x_next = x_hat + (t_next - t_hat) * d_cur
  
+ 
+            # add Heun’s 2nd order method 
+
+            # if i < num_steps - 1:
+            #     denoised = self.EDMPrecond(x_next, t_next , cond,self.denoise_fn,nonpadding) 
+            #     d_prime = (x_next - denoised) / t_next
+            #     x_next = x_hat + (t_next - t_hat) * (0.5 * d_cur + 0.5 * d_prime)
+
 
         return x_next
 
