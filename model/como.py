@@ -269,7 +269,7 @@ class Como(BaseModule):
         n = (torch.randn_like(x_start)+cond ) * sigma
         D_yn = self.EDMPrecond(x_start + n, sigma ,cond,self.denoise_fn,nonpadding)
         loss = (weight * ((D_yn - x_start) ** 2))
-        loss=loss*nonpadding.unsqueeze(1).unsqueeze(1)
+        loss=loss*nonpadding 
         loss=loss.mean() 
         return loss
 
@@ -361,7 +361,7 @@ class Como(BaseModule):
 
  
         loss =   (f_theta - f_theta_ema.detach()) ** 2 
-        loss=loss*nonpadding.unsqueeze(1).unsqueeze(1)
+        loss=loss*nonpadding 
         loss=loss.mean() 
 
 
