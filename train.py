@@ -87,7 +87,7 @@ if __name__ == "__main__":
         model = Comospeech(nsymbols, 1, None, n_enc_channels, filter_channels, filter_channels_dp, 
                         n_heads, n_enc_layers, enc_kernel, enc_dropout, window_size, 
                         n_feats,teacher=False).cuda()
-        mode1 = load_teacher_model(model,checkpoint_dir='') # teacher model path
+        model = load_teacher_model(model,checkpoint_dir='') # teacher model path
         optimizer = torch.optim.Adam(params=model.decoder.denoise_fn.parameters(), lr=learning_rate)
 
  
