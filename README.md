@@ -2,7 +2,7 @@
 
 # COMOSPEECH
 
-Implementation of the CoMospeech. For all details check out our paper accepted to ACM MM 2023: CoMoSpeech:  One-Step Speech and Singing Voice Synthesis via Consistency Model.
+Implementation of the [CoMospeech](https://arxiv.org/pdf/2305.06908.pdf). For all details check out our paper accepted to ACM MM 2023: CoMoSpeech:  One-Step Speech and Singing Voice Synthesis via Consistency Model.
 
 **Authors**: Zhen Ye, Wei Xue, Xu Tan, Jie Chen, Qifeng Liu, Yike Guo.
 
