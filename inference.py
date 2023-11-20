@@ -34,7 +34,7 @@ if __name__ == '__main__':
     
  
     
-    print('Initializing Grad-TTS...')
+    print('Initializing...')
  
     if params.teacher:
         generator = Comospeech(len(symbols)+1, params.n_spks, params.spk_emb_dim,
