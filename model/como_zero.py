@@ -361,7 +361,7 @@ class Como(BaseModule):
 
  
         loss =   (f_theta - f_theta_ema.detach()) ** 2 
-        loss=loss*5000*nonpadding
+        loss=loss* nonpadding
         loss=loss.mean() 
 
 
