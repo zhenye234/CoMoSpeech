@@ -266,10 +266,10 @@ class Como(BaseModule):
         weight = (sigma ** 2 + self.sigma_data ** 2) / (sigma * self.sigma_data) ** 2
 
  
-        n = (torch.randn_like(x_start)+cond ) * sigma
+        n = (torch.randn_like(x_start) ) * sigma
         D_yn = self.EDMPrecond(x_start + n, sigma ,cond,self.denoise_fn,nonpadding)
         loss = (weight * ((D_yn - x_start) ** 2))
-        loss=loss*nonpadding 
+        loss=loss*nonpadding.unsqueeze(1).unsqueeze(1)
         loss=loss.mean() 
         return loss
 
@@ -289,9 +289,9 @@ class Como(BaseModule):
  
 
         # Time step discretization.
-        
         num_steps=num_steps+1
         step_indices = torch.arange(num_steps,   device=latents.device)
+
 
         t_steps = (sigma_max ** (1 / rho) + step_indices / (num_steps - 1) * (sigma_min ** (1 / rho) - sigma_max ** (1 / rho))) ** rho
         t_steps = torch.cat([self.round_sigma(t_steps), torch.zeros_like(t_steps[:1])])  
@@ -306,20 +306,16 @@ class Como(BaseModule):
             # Increase noise temporarily.
             gamma = min(S_churn / num_steps, np.sqrt(2) - 1) if S_min <= t_cur <= S_max else 0
             t_hat = self.round_sigma(t_cur + gamma * t_cur)
-            x_hat = x_cur + (t_hat ** 2 - t_cur ** 2).sqrt() * S_noise * torch.randn_like(x_cur)
+            x_hat = x_cur # + (t_hat ** 2 - t_cur ** 2).sqrt() * S_noise * torch.randn_like(x_cur)
 
             # Euler step.
             denoised = self.EDMPrecond(x_hat, t_hat , cond,self.denoise_fn,nonpadding) 
-            d_cur = (x_hat - denoised) / t_hat
+            d_cur = (x_hat - denoised) / t_hat #!
             x_next = x_hat + (t_next - t_hat) * d_cur
- 
- 
-            # add Heun’s 2nd order method 
-
-            # if i < num_steps - 1:
-            #     denoised = self.EDMPrecond(x_next, t_next , cond,self.denoise_fn,nonpadding) 
-            #     d_prime = (x_next - denoised) / t_next
-            #     x_next = x_hat + (t_next - t_hat) * (0.5 * d_cur + 0.5 * d_prime)
+            if i < num_steps - 1:
+                denoised = self.EDMPrecond(x_next, t_next , cond,self.denoise_fn,nonpadding) 
+                d_prime = (x_next - denoised) / t_next
+                x_next = x_hat + (t_next - t_hat) * (0.5 * d_cur + 0.5 * d_prime)
 
 
         return x_next
@@ -339,7 +335,7 @@ class Como(BaseModule):
  
  
 
-        z = torch.randn_like(y)+ cond
+        z = torch.randn_like(y) 
 
         tn_1 = self.c_t_d(n + 1 ).reshape(-1, 1,   1).to(y.device)
         f_theta = self.EDMPrecond(y + tn_1 * z, tn_1, cond, self.denoise_fn,nonpadding)
@@ -355,13 +351,17 @@ class Como(BaseModule):
  
  
   
+            denoised2 = self.EDMPrecond(y_tn, tn , cond,self.denoise_fn_pretrained,nonpadding) 
+            d_prime = (y_tn - denoised2) / tn
+            y_tn = x_hat + (tn - tn_1) * (0.5 * d_cur + 0.5 * d_prime)
+
 
 
             f_theta_ema = self.EDMPrecond( y_tn, tn,cond, self.denoise_fn_ema,nonpadding)
 
  
         loss =   (f_theta - f_theta_ema.detach()) ** 2 
-        loss=loss*nonpadding 
+        loss=loss*5000*nonpadding
         loss=loss.mean() 
 
 
@@ -394,7 +394,7 @@ class Como(BaseModule):
         x = self.EDMPrecond(latents, t_steps[0],cond,self.denoise_fn,nonpadding)
         
         for t in t_steps[1:-1]:
-            z = torch.randn_like(x)+cond
+            z = torch.randn_like(x) 
             x_tn = x +  (t ** 2 - self.sigma_min ** 2).sqrt()*z
             x = self.EDMPrecond(x_tn, t,cond,self.denoise_fn,nonpadding)
         
@@ -412,7 +412,7 @@ class Como(BaseModule):
             else:
  
                 shape = (cond.shape[0],   80, cond.shape[2])
-                x = torch.randn(shape, device=x.device)+cond
+                x = torch.randn(shape, device=x.device)   
                 x=self.edm_sampler(x, cond,nonpadding,t_steps)
             return x
         else:  #Consistency distillation
@@ -424,7 +424,7 @@ class Como(BaseModule):
             else:
  
                 shape = (cond.shape[0],   80, cond.shape[2])
-                x = torch.randn(shape, device=x.device)+cond    
+                x = torch.randn(shape, device=x.device)   
                 x=self.CT_sampler(x, cond,nonpadding,t_steps)
  
             return x

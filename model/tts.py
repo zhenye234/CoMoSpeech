@@ -9,7 +9,7 @@ from model.text_encoder import TextEncoder
 from model.utils import sequence_mask, generate_path, duration_loss, fix_len_compatibility
 
 from model.como import Como
-
+# from model.como_zero import Como
 
 class Comospeech(BaseModule):
     def __init__(self, n_vocab, n_spks, spk_emb_dim, n_enc_channels, filter_channels, filter_channels_dp, 
