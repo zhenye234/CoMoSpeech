@@ -10,7 +10,7 @@ Implementation of the [CoMospeech](https://arxiv.org/pdf/2305.06908.pdf). For al
 
 
 
-We find that zero-mean Gaussian noise instead of the prior in grad-tts can also achieve similar effects. We alse release the new code and checkpoints.
+We find that zero-mean Gaussian noise instead of the prior in grad-tts can also achieve similar performance. We alse release the new code and checkpoints.
 
 We add   Heun’s 2nd order method support for   teacher model. (can be used for teacher model sampling and better ODE trajectory for consistency distillation)
 
