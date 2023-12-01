@@ -8,13 +8,18 @@ Implementation of the [CoMospeech](https://arxiv.org/pdf/2305.06908.pdf). For al
 
 # Update
 
-**NEW!** We also propose a well-designed SVC version based on consistency model ([Code](https://github.com/Grace9994/CoMoSVC)). 
-
-We find that zero-mean Gaussian noise instead of the prior in grad-tts can also achieve similar performance. We alse release the new code and checkpoints.
-
-We add   Heun’s 2nd order method support for   teacher model. (can be used for teacher model sampling and better ODE trajectory for consistency distillation)
+**2023-12-01** 
 
 
+- We also propose a well-designed Singing Voice Conversion (SVC) version, <span style="color:red"> **CoMoSVC** </span>, based on consistency model ([Code](https://github.com/Grace9994/CoMoSVC)). 
+
+**2023-11-30**
+
+- We find that zero-mean Gaussian noise instead of the prior in grad-tts can also achieve similar performance. We alse release the new code and checkpoints.
+
+**2023-10-21** 
+
+- We add Heun’s 2nd order method support for   teacher model (can be used for teacher model sampling and better ODE trajectory for consistency distillation). 
 
 ## Abstract
 
