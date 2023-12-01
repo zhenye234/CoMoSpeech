@@ -8,7 +8,7 @@ Implementation of the [CoMospeech](https://arxiv.org/pdf/2305.06908.pdf). For al
 
 # Update
 
-**NEW!** We also propose a well-designed SVC version [link](https://github.com/Grace9994/CoMoSVC) based on consistency model. 
+**NEW!** We also propose a well-designed SVC version based on consistency model: [link](https://github.com/Grace9994/CoMoSVC). 
 
 We find that zero-mean Gaussian noise instead of the prior in grad-tts can also achieve similar performance. We alse release the new code and checkpoints.
 
