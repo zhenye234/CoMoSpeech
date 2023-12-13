@@ -12,6 +12,13 @@ from librosa.filters import mel as librosa_mel_fn
 
 MAX_WAV_VALUE = 32768.0
 
+spec_min=-12
+spec_max=2
+def norm_spec(  x):
+    return (x -  spec_min) / ( spec_max -  spec_min) * 2 - 1
+def denorm_spec(  x):
+    return (x + 1) / 2 * ( spec_max -  spec_min) +  spec_min
+
 
 def load_wav(full_path):
     sampling_rate, data = read(full_path)
@@ -70,7 +77,8 @@ def mel_spectrogram(y, n_fft, num_mels, sampling_rate, hop_size, win_size, fmin,
 
     spec = torch.matmul(mel_basis[str(fmax)+'_'+str(y.device)], spec)
     spec = spectral_normalize_torch(spec)
-
+    # if como_zero
+    # spec = norm_spec(spec)
     return spec
 
 
